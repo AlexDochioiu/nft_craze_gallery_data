@@ -1,0 +1,37 @@
+[
+    {
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_bits.jpeg",
+      "collectionName": "Cardano Bits",
+      "policies": [
+        "1131301ad4b3cb7deaddbc8f03f77189082a5738c0167e1772233097"
+      ]
+    },
+    {
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+      "collectionName": "Cardano Kidz",
+      "policies": [
+        "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d"
+      ]
+    },
+    {
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/spacebudz.jpeg",
+      "collectionName": "Space Budz",
+      "policies": [
+        "d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc"
+      ]
+    },
+    {
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/crypto_mayor.jpeg",
+      "collectionName": "Crypto Mayor",
+      "policies": [
+        "5e889bcb83b884bb6d768cfc483845cd6ccee79c2b5a4a15dae7ff47"
+      ]
+    },
+    {
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/finger_monsters.webp",
+      "collectionName": "Finger Monsters",
+      "policies": [
+        "6c96047dc3e440f63131848056ff2175f316eb1ae807f7882c7885f8"
+      ]
+    }
+  ]
