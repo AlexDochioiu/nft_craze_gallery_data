@@ -82,5 +82,45 @@
                 ]
             }
         ]
-    }
+    },
+    {
+    "project": "Professor Cardano",
+    "collections": [
+        {
+            "logoUrl": "https://ipfs.io/ipfs/QmPriKLfgJA7HeR9uj38ij7YirmNyYYrqFNVCGZ6GCyqmQ?filename=Professor_Cardano_Lab.jpg",
+            "collectionName": "Professor Cardano & Professor Cardano BANG",
+            "policies": [
+              "e85a0209a5d4dd2f4bc12783f65742f1994b16e506eef8b7296fc778"
+            ]
+        },
+        {
+            "logoUrl": "https://ipfs.io/ipfs/Qmd9eQMsbLnjBc1qcZ9Td5qzzSW4Hz16naTi4gEUimETSg?filename=118%20-%20Oganesson%20%5BOg%5D.jpg",
+            "collectionName": "118 - Oganesson [Og]",
+            "policies": [
+              "c2fe5590c582d1c53dbd7dd72b702b78407a67dae9a2046d577fa4c3"
+            ]
+        }
+         {
+            "logoUrl": "https://ipfs.io/ipfs/Qmd3eM9z5hVGGQLjU6sQBrzuuu1mv7GN2nqaadJ1cfK58J?filename=117%20-%20Tennessine%20%5BTs%5D.jpg",
+            "collectionName": "117 - Tennessine [Ts]",
+            "policies": [
+              "732e6d63d1081962ffb39152917e550ac1a7a8aad419786babfa4996"
+            ]
+        }
+        {
+            "logoUrl": "https://ipfs.io/ipfs/QmXJ31G1hrtwq2jzwaJ3Rv7pLqaKVtnuzqGDjo5qxmBaiJ?filename=116%20-%20Livermorium%20%5BLv%5D.jpg",
+            "collectionName": "116 - Livermorium [Lv]",
+            "policies": [
+              "82666abf5105ac43a4171d9b95ca83a25556b529f025a1b5cf61cf32"
+            ]
+        }
+        {
+            "logoUrl": "https://ipfs.io/ipfs/QmRjRKEnEcjrYGis69oF1bLsndGWqyH2BiJtxUFzq92N7E?filename=115%20-%20Moscovium%20%5BMc%5D.jpg",
+            "collectionName": "115 - Moscovium [Mc]",
+            "policies": [
+              "42025be91489495e239b5ef7547f0635229b9a935878b03d11980e0a"
+            ]
+        }
+    ]
+}
   ]
