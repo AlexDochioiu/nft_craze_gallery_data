@@ -180,11 +180,11 @@
       ]
     },
     {
-      "project": "MADinArt",
+      "project": "MAD in Art",
       "collections": [
         {
           "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmcq24zDwzJrR2m2QkHyJGgWQDASMX4Knwp5MCXXDABJi5",
-          "collectionName": "MADinArt",
+          "collectionName": "MAD in Art",
           "policies": [
             "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb"
           ]
