@@ -178,5 +178,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "MADinArt",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmcq24zDwzJrR2m2QkHyJGgWQDASMX4Knwp5MCXXDABJi5",
+          "collectionName": "MADinArt",
+          "policies": [
+            "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb"
+          ]
+        }
+      ]
     }
   ]
