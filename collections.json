@@ -140,7 +140,7 @@
       "project": "Street Art CNFTs",
       "collections": [
         {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZErBudKGXX5Jc4AFVuG1k56aSrzTTc33suVmBX1MNVkA",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/street_art_cnfts.jpeg",
           "collectionName": "Street Art CNFTs",
           "policies": [
             "4b21109cf578a4739c1f806aba0ef71b9d6e2736743c5510698462e1"
