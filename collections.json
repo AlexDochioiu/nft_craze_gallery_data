@@ -190,5 +190,29 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Blizzeffect",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmewqLnSPRHrk4yNQYja3yxkQrVyExNeytiogXC9SDDwo5",
+          "collectionName": "Blizzeffect Creatures",
+          "policies": [
+            "9900680bccc9955c81c40afa1e562c9d5cbd31d1c80e1aff68c2f0db",
+            "779f3cc1ef30bbfa12a8a92788adc8adeefecaed502ad9e62045d32a",
+            "44efb54513ff8441fdff2a2d7ca9ebb4caef7668fa7881cbe9307a44"
+
+          ]
+        },
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYbEbVjpJ7GgeGWUB46pWqDe7tvHR8ueKmFWg9sN9oBd7",
+          "collectionName": "Blizzeffect",
+          "policies": [
+            "9e64077906467d4a62ce032829bddc334292798e706e56506f84e758",
+            "2a68426af4d0838fefde9621de2bd3efc939579dec77d61df6139aca",
+            "86b4334851956d2f8400bab0122b13ecd4576be7546400c639999bc2"
+          ]
+        }
+      ]
     }
   ]
