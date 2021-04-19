@@ -153,11 +153,17 @@
       "collections": [
         {
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
-          "collectionName": "The Doomsday",
+          "collectionName": "Retro NFTs - The Doomsday",
           "policies": [
-            "8e83eb63ab3014664ee5348c1607b587198a3a8134dc61e6a3beac45",
-            "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
+            "8e83eb63ab3014664ee5348c1607b587198a3a8134dc61e6a3beac45"
           ]
+        },
+        {
+            "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
+            "collectionName": "Retro NFTs - TestToken",
+            "policies": [
+              "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
+            ] 
         }
       ]
     }
