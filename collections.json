@@ -166,5 +166,17 @@
             ] 
         }
       ]
+    },
+    {
+      "project": "ADABirds",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZTc8BBX9oEiatXMf8BtaxXLxBBhWm1VcWZDefLxKWtv6",
+          "collectionName": "SET #000",
+          "policies": [
+            "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103"
+          ]
+        }
+      ]
     }
   ]
