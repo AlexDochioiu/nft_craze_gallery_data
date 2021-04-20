@@ -356,5 +356,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "BeerSommelier",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/beer_sommelier.jpeg",
+          "collectionName": "BeerSommelier",
+          "policies": [
+            "498e2baee0ea6603db7faefa4309567273079c1f559621e19480c1a7"
+          ]
+        }
+      ]
     }
   ]
