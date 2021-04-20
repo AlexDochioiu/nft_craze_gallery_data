@@ -214,5 +214,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Bricksfun",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmdpwp1o2MSzFzazqWfLgcunSTMuvRqPzRMrLdm8PkKvhX",
+          "collectionName": "Bricks-Fun",
+          "policies": [
+            "33f743a78443b6c5aa69037311fbe765e3f0a4279f61e3f1d8286fad"
+          ]
+        }
+      ]
     }
   ]
