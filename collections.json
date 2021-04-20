@@ -305,5 +305,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "StigmaNFT",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/stigma_nft.jpeg",
+          "collectionName": "StigmaNFT",
+          "policies": [
+            "3f564f034a9ff9080d4988956a1a25089910c88fc2cb3ab17cfd970e"
+          ]
+        }
+      ]
     }
   ]
