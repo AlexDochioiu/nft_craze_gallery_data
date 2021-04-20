@@ -213,10 +213,13 @@
       "project": "MAD in Art",
       "collections": [
         {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmcq24zDwzJrR2m2QkHyJGgWQDASMX4Knwp5MCXXDABJi5",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/mad_in_art.jpeg",
           "collectionName": "MAD in Art",
           "policies": [
-            "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb"
+            "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb",
+            "8301b4e380a83db15615b484f564304832b3cd5f82cb8cbd5795e88e",
+            "2fa7bb4e87a7f2c02ce9c0694260a6f5b002a8214a5e3fa40c6cd9fd",
+            "87675e1c0ca19c83c6d709cf6af96438f8a19a6605c776e5ba409c45"
           ]
         }
       ]
