@@ -408,5 +408,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "DM Photography Shanghai",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/dm_photography_shanghai.jpeg",
+          "collectionName": "DM Photography Shanghai",
+          "policies": [
+            "7cd75f62734b33734d18bbb3ea55a30b4912cc5642058f97a5f3eef0"
+          ]
+        }
+      ]
     }
   ]
