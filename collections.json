@@ -281,5 +281,29 @@
           ]
         }
       ]
+    },
+    {
+      "project": "CardanoGang",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gang.jpeg",
+          "collectionName": "CardanoGang",
+          "policies": [
+            "7c921852e38f220c90de1bf70800918ee789284c856548a5e5b8cc5f",
+            "e7ccf3b8dcfe743eb77bc92dbeba4cc26c05b9e2231915f7f773dca9",
+            "82d4481e28a5ce94dd7c55d42b1cfcc1e5443e65f07065f09be5c756",
+            "97f9a18b6bdc02837ec8b0957b3f29eb527bb3fc82346d37fa8affe5",
+            "de8bf15db0d5034a56523625edc1f8151f4a3b1003792e23adc92097",
+            "70082db67d9af998b5d6469728a245f0b353beec279535b364bfb826",
+            "57132dcd3b42f816421c1fd97ba3a7b6b203fde5bc82493d0d40f4f6",
+            "ef2675eaba142e51a328d0961182ba87bf34b065edcec3aa0cc8b2af",
+            "c3e9375be5c04b8d737d8f427868a43c463284f02e45cbeaa259e81f",
+            "a1f244ca5d23920d64a05a40f1babca08a8d958a4f9fa6fa32f45b13",
+            "d81327be18f924ee4ef5889dee6b12d0900425a75da9e0358680d302",
+            "cda129dff919ac57d1356905419d64fb27b700a5646428ea5d521530",
+            "0f6b324f60b34443c378bf440cf515dba66679d0d9b9883642704964"
+          ]
+        }
+      ]
     }
   ]
