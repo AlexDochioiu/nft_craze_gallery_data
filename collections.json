@@ -227,5 +227,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Tonoy",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/tonoy_guitar.jpeg",
+          "collectionName": "Tonoy Guitar",
+          "policies": [
+            "eb9afab12c81b161c3261449e93ae07d8fa88b70f4c1122f6c34c833"
+          ]
+        }
+      ]
     }
   ]
