@@ -16,9 +16,37 @@
       "collections": [
         {
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz",
+          "collectionName": "Cardano Kidz TestNFT",
+          "policies": [
+            "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540"
+          ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+          "collectionName": "Cardano Kidz S0",
+          "policies": [
+            "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b"
+          ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+          "collectionName": "Cardano Kidz S1",
+          "policies": [
+            "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa"
+          ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+          "collectionName": "Cardano Kidz S2",
           "policies": [
             "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d"
+          ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+          "collectionName": "Cardano Kidz S3",
+          "policies": [
+            "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9"
           ]
         }
       ]
@@ -160,11 +188,11 @@
           ]
         },
         {
-            "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
-            "collectionName": "Retro NFTs - TestToken",
-            "policies": [
-              "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
-            ] 
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
+          "collectionName": "Retro NFTs - TestToken",
+          "policies": [
+            "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
+          ]
         }
       ]
     },
@@ -202,7 +230,6 @@
             "9900680bccc9955c81c40afa1e562c9d5cbd31d1c80e1aff68c2f0db",
             "779f3cc1ef30bbfa12a8a92788adc8adeefecaed502ad9e62045d32a",
             "44efb54513ff8441fdff2a2d7ca9ebb4caef7668fa7881cbe9307a44"
-
           ]
         },
         {
