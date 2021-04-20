@@ -381,5 +381,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Cardano Voodz",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_voodz.jpeg",
+          "collectionName": "Cardano Voodz",
+          "policies": [
+            "592c3cb9c56148a8d7a2c8616aa018b2cd1d98c4f9fef050aba939f2"
+          ]
+        }
+      ]
     }
   ]
