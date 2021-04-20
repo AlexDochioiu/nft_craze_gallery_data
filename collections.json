@@ -393,5 +393,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Low Poly Dragons",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/low_poly_dragons.jpeg",
+          "collectionName": "Low Poly Dragons",
+          "policies": [
+            "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1"
+          ]
+        }
+      ]
     }
   ]
