@@ -344,5 +344,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "CardanoJimbo",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_jimbo.jpeg",
+          "collectionName": "CardanoJimbo",
+          "policies": [
+            "46705d4026746babbc3c42ab999f15f306e846a8b13cf7a108e726cc"
+          ]
+        }
+      ]
     }
   ]
