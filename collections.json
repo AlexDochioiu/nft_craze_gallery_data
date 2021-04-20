@@ -369,5 +369,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Anim8bits",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/anim8bits.jpeg",
+          "collectionName": "Anim8bits",
+          "policies": [
+            "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a"
+          ]
+        }
+      ]
     }
   ]
