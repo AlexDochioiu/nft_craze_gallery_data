@@ -222,7 +222,8 @@
           "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmdpwp1o2MSzFzazqWfLgcunSTMuvRqPzRMrLdm8PkKvhX",
           "collectionName": "Bricks-Fun",
           "policies": [
-            "33f743a78443b6c5aa69037311fbe765e3f0a4279f61e3f1d8286fad"
+            "33f743a78443b6c5aa69037311fbe765e3f0a4279f61e3f1d8286fad",
+            "7103d9ea701e4f8ccad9babe53e879c8760494bb8c27fb988a59d650"
           ]
         }
       ]
