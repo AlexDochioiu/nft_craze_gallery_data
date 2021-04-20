@@ -16,9 +16,10 @@
       "collections": [
         {
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz TestNFT",
+          "collectionName": "Cardano Kidz Others",
           "policies": [
-            "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540"
+            "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
+            "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1"
           ]
         },
         {
