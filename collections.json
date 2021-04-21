@@ -459,5 +459,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "CardanoSpace",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_space.png",
+          "collectionName": "CardanoSpace",
+          "policies": [
+            "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d"
+          ]
+        }
+      ]
     }
   ]
