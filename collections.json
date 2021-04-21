@@ -411,5 +411,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Cardano Gods",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gods.jpeg",
+          "collectionName": "Cardano Gods",
+          "policies": [
+            "148b29dce34d2d9f6baf3b0aa53db4ee64976a2f82c91175a0d3f5c4"
+          ]
+        }
+      ]
     }
   ]
