@@ -399,5 +399,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Whitespaces",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/whitespaces.jpeg",
+          "collectionName": "Whitespaces",
+          "policies": [
+            "4027768aefcdef653acbd759b2420bd24b0b01881b52cd888d19fc1b"
+          ]
+        }
+      ]
     }
   ]
