@@ -16,37 +16,14 @@
       "collections": [
         {
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz Others",
+          "collectionName": "Cardano Kidz",
           "policies": [
             "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
-            "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz S0",
-          "policies": [
-            "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz S1",
-          "policies": [
-            "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz S2",
-          "policies": [
-            "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz S3",
-          "policies": [
+            "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1",
+            "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b",
+            "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
+            "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa",
+            "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d",
             "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9"
           ]
         }
