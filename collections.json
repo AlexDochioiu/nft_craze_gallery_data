@@ -387,5 +387,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "CreepyBallz",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_ballz.jpeg",
+          "collectionName": "CreepyBallz",
+          "policies": [
+            "00255c245861e1e15ef8aced64d44dd20682ee7c2bb42b7941e199dd"
+          ]
+        }
+      ]
     }
   ]
