@@ -447,5 +447,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "NFT-Craze",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nft_craze.svg",
+          "collectionName": "NFT-Craze",
+          "policies": [
+            "fc9ca515b755acbf3f8ee4f75822f2a4632c6361b6c14f76deb330b0"
+          ]
+        }
+      ]
     }
   ]
