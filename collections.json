@@ -397,5 +397,18 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Cardano Takeover",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_takeover.jpeg",
+          "collectionName": "Cardano Takeover",
+          "policies": [
+            "63787c07d269d8243efeb78cfcf9d4eaba4e1f231bf373c46d54cffd",
+            "71ac1e8c7661a254b0386c8cd0c46b0ab9a2137d98c43de894abfaf4"
+          ]
+        }
+      ]
     }
   ]
