@@ -483,5 +483,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "NFTUpdate.io",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYNbbN83duNzfZjprXsd7yLa7hjDigQxmDzCcf7gmzppS",
+          "collectionName": "NFTUpdate.io",
+          "policies": [
+            "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475"
+          ]
+        }
+      ]
     }
   ]
