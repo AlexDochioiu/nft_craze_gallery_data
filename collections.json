@@ -546,5 +546,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "BobaBits",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bobabits.jpeg",
+          "collectionName": "BobaBits",
+          "policies": [
+            "b19021b4993e4a282dd0e0d9e74d7608cd6c59fb63827a0838f4155f"
+          ]
+        }
+      ]
     }
   ]
