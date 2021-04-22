@@ -558,5 +558,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "CORN 'n FRIENDS",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/corn_n_friends.jpeg",
+          "collectionName": "CORN 'n FRIENDS",
+          "policies": [
+            "1018656a869c94433567ee9f6190a467605f9f7b6ded220031d9febc"
+          ]
+        }
+      ]
     }
   ]
