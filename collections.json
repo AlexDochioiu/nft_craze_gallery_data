@@ -533,5 +533,18 @@
           ]
         }
       ]
+    },
+    {
+      "project": "FLawwed1",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flawwed1.jpeg",
+          "collectionName": "FLawwed1",
+          "policies": [
+            "dc8bfe53d4e3e29c143322edffc0ed08169b8745111cf463b7b539e0",
+            "73407593ab75e61e78f7d4b32a90c208d2549081790ff14ce51d6eb9"
+          ]
+        }
+      ]
     }
   ]
