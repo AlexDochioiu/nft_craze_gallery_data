@@ -504,7 +504,8 @@
           "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYNbbN83duNzfZjprXsd7yLa7hjDigQxmDzCcf7gmzppS",
           "collectionName": "NFTUpdate.io",
           "policies": [
-            "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475"
+            "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475",
+            "883b7a579dd41444c66a6629e5841e1e714e812e51ab01537edd2d5b"
           ]
         }
       ]
