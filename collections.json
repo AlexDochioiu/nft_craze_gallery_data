@@ -243,7 +243,7 @@
       "project": "rwpNFT",
       "collections": [
         {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmQ57cWsESLx2UBwADCbACXsnfukdX9f5xUzARd42oZB4b",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/rwpnft.png",
           "collectionName": "rwpNFT",
           "policies": [
             "1d67267f255d6f25ab88c45e0fd86378f1d4cf959b49b857bcb1d1fc",
