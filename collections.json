@@ -24,6 +24,17 @@
       ]
     },
     {
+      "project": "CardanoCubes",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_cubes.jpeg",
+          "collectionName": "CardanoCubes",
+          "policies": [
+            "324f316d40e0c730d7c836daf3c0cb825376a5719d3c5a88543db4ff"
+          ]
+        }
+      ]
+    },{
       "project": "Cardano Kidz",
       "collections": [
         {
