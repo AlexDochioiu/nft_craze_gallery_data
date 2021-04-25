@@ -181,7 +181,8 @@
           "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZTc8BBX9oEiatXMf8BtaxXLxBBhWm1VcWZDefLxKWtv6",
           "collectionName": "ADABirds SET #000",
           "policies": [
-            "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103"
+            "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103",
+            "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23"
           ]
         }
       ]
