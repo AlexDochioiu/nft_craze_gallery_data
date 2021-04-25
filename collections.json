@@ -613,5 +613,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Backwards Geometry",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/backwards_geometry.jpg",
+          "collectionName": "Backwards Geometry",
+          "policies": [
+            "9c9cc19ada98d50a783432a073239fe6d69c5bb695f1972b5d07c3fb"
+          ]
+        }
+      ]
     }
   ]
