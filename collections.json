@@ -625,5 +625,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "NFTea",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nftea.jpg",
+          "collectionName": "NFTea",
+          "policies": [
+            "ddbad80c6f49194b63d711e06a86492963858268fb23f8382b79d2a1"
+          ]
+        }
+      ]
     }
   ]
