@@ -358,10 +358,27 @@
       "project": "Anim8bits",
       "collections": [
         {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/anim8bits.jpeg",
+          "logoUrl": "https://user-images.githubusercontent.com/30282890/116137850-abdd9500-a706-11eb-8383-0b78c6f9131b.gif",
           "collectionName": "Anim8bits",
           "policies": [
             "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a"
+          ]
+        }
+      ]
+    },
+    {
+      "project": "Deveerei",
+      "collections": [
+        {
+          "logoUrl": "https://user-images.githubusercontent.com/30282890/116137898-bbf57480-a706-11eb-981d-98e3ea2adf5a.gif",
+          "collectionName": "Deveerei",
+          "policies": [
+            "84833edd532678d86bd0cc20d64b78a31fea460d9e5e862d99db14bd",
+            "0d20e28fc29ec1c54e562d276c77d72185e19618ee68d4a8f5775643",
+            "a147c2d6821738c0d7b964efddcbd1c58eee6fcabc595bdf3dc9f063",
+            "c1e7dce06ef37fccb60bd16db42330e21da1ce6e9b66295b8ae9a534",
+            "e3920a05bf0ee63f931d12d0e0189c20d624619b933454ab309c1cbd",
+            "8302cf1365b26cdc34bb4cca475fb34bd77bd81a54728f7a3f414413"
           ]
         }
       ]
