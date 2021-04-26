@@ -695,5 +695,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Visions",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions.jpeg",
+          "collectionName": "Visions",
+          "policies": [
+            "2240892b3076cdd32dd22ab00c074cac5471d7612f690e4c1b64b802"
+          ]
+        }
+      ]
     }
   ]
