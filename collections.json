@@ -24,6 +24,25 @@
       ]
     },
     {
+      "project": "BubbleGoblin",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bubble_goblin.jpeg",
+          "collectionName": "BubbleGoblin",
+          "policies": [
+            "f777159f6ffbc799906aefbe87b790bc1fbd2740200542437dbbbeb4",
+            "139abfce3774e66a66da1d7e9918903cb5e61a6c9ad60072090f09c4",
+            "4ad09f73bf13f17c1c0a30976dda9db8b3996fddee67ab9cb63d359e",
+            "9173aa07f36352e3c39557cc6791608869e34fa912a7d6523d6174d6",
+            "da041e3a0776e42e37fcd689ca8d163c6cc79baf4b3d00ae9428decb",
+            "3b78a85bba1e59203ea5ed0abb60cc18b4f2a81b3515379eb8520103",
+            "49edb1974d1ccc849d12a8eaa3da8b7cc495bea3d48bfd77f1b2f646",
+            "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873"
+          ]
+        }
+      ]
+    },
+    {
       "project": "CardanoCubes",
       "collections": [
         {
