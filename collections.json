@@ -630,7 +630,7 @@
       "project": "NFTea",
       "collections": [
         {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/jes-art.jpg",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nftea.jpg",
           "collectionName": "NFTea",
           "policies": [
             "ddbad80c6f49194b63d711e06a86492963858268fb23f8382b79d2a1"
@@ -642,7 +642,7 @@
       "project": "JES-Art",
       "collections": [
         {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nftea.jpg",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/jes-art.png",
           "collectionName": "JES-Art",
           "policies": [
             "1fbe166f8b6a129161a61b6d3ec0c1ad757d7ea0057f6326f149cf7a",
