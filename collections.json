@@ -637,5 +637,27 @@
           ]
         }
       ]
+    },
+    {
+      "project": "JES-Art",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/jes-art.png",
+          "collectionName": "JES-Art",
+          "policies": [
+            "1fbe166f8b6a129161a61b6d3ec0c1ad757d7ea0057f6326f149cf7a",
+            "268cfd94e7d2a8cd59590aa4283dfd790b08a875d5b41b022d4231be",
+            "329ec763ef308f59986f9e4023e252de1d00dd2104928170cf6f7a7b",
+            "ab00cdefc5201396507f7fd5b06dd3b1d239c75323f39f25126d9475",
+            "1dfd91bd4240deeae4490eac7ee39e08445ec0488a12609731adbc4c",
+            "e413348fe8316bc7f9081927debeaaa948dc002a9dc52e46ac7a378d",
+            "2aa7bef36be005fb9985ca2852b14afa66cfc37756a4b0b842e9bde1",
+            "8f753f96340b75fa4fcff4e5e862e44a079f461c38a24b38bdb6e731",
+            "0df827a31a5fdce0a367f1801ad8c3488e5c7e0a071050ca3c597ed4",
+            "59c29ca2b2931f0386cb73eccb70d52fcef91d8a42d7a3903839d691",
+            "e4f75011b1fe204f8bcbaf4b21946ef1b41e145e9f6be0c7631185b0"
+          ]
+        }
+      ]
     }
   ]
