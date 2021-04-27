@@ -24,6 +24,31 @@
       ]
     },
     {
+      "project": "CMBYN",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+          "collectionName": "CMBYN - Faces",
+          "policies": [
+            "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b"
+          ]
+        }
+      ]
+    },
+    {
+      "project": "Pating RA",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/pating_ra.jpeg",
+          "collectionName": "Pating RA",
+          "policies": [
+            "918d8b4ae732fd29e08343f75bf7b90c354407488c22327415b2a3d9",
+            "f166848f8ad1839a88cc6b15634cc991900f105b91ab3c5ac3a82217"
+          ]
+        }
+      ]
+    },
+    {
       "project": "BubbleGoblin",
       "collections": [
         {
