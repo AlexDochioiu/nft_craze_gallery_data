@@ -182,7 +182,8 @@
           "collectionName": "Cardanoverse",
           "policies": [
             "eb9a04fdf80abfb835562fc3aeb9a234e6f795678daf3566dc1acf27",
-            "89f04baaff486a7a362991c4dff5af6d1b8ab748d0dc404b79e3a94f"
+            "89f04baaff486a7a362991c4dff5af6d1b8ab748d0dc404b79e3a94f",
+            "f28dc98c31d77af5a9abb79a06c65a47085b5c1579660bc5ab907de0"
           ]
         }
       ]
