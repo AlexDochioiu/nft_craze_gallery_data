@@ -830,5 +830,24 @@
           ]
         }
       ]
+    },
+    {
+      "project": "NFrogTs",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nfrogts.png",
+          "collectionName": "NFrogTs",
+          "policies": [
+            "9344885c9f6c224a5e321029b2acff22fdbd7e5c045a2f6a1a0d67e3"
+          ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nfrogts.png",
+          "collectionName": "Cryptodelic-Frogs",
+          "policies": [
+            "56b98f0c6ffb179b503dc4d264b7d8a34aa3fb3781fabeffae0b0fd1"
+          ]
+        }
+      ]
     }
   ]
