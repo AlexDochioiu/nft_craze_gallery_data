@@ -803,5 +803,18 @@
           ]
         }
       ]
+    },
+    {
+      "project": "charlesgitnick",
+      "collections": [
+        {
+          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmaZAaAmRbw3yzQUTSzooJJ8E3uS7Erm16s9fN8ueCuWwB",
+          "collectionName": "charlesgitnick",
+          "policies": [
+            "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
+            "df142ed23ec3d8f636d1b62e6eedf96141abec51ab18363d0bf6316d"
+          ]
+        }
+      ]
     }
   ]
