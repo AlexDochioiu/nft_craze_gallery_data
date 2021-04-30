@@ -12,6 +12,18 @@
       ]
     },
     {
+      "project": "VEGAS ADA Pool",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/vegas_ada_pool.jpg",
+          "collectionName": "VEGAS ADA Pool",
+          "policies": [
+            "1622a0165ab7eb03df32c0368450f2b3425cdee919c1870c4f05e7ea"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Berries",
       "collections": [
         {
@@ -162,7 +174,7 @@
       "project": "Professor Cardano",
       "collections": [
         {
-          "logoUrl": "https://ipfs.io/ipfs/QmPriKLfgJA7HeR9uj38ij7YirmNyYYrqFNVCGZ6GCyqmQ?filename=Professor_Cardano_Lab.jpg",
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
           "collectionName": "Professor Cardano",
           "policies": [
             "e85a0209a5d4dd2f4bc12783f65742f1994b16e506eef8b7296fc778",
@@ -730,7 +742,8 @@
             "8f753f96340b75fa4fcff4e5e862e44a079f461c38a24b38bdb6e731",
             "0df827a31a5fdce0a367f1801ad8c3488e5c7e0a071050ca3c597ed4",
             "59c29ca2b2931f0386cb73eccb70d52fcef91d8a42d7a3903839d691",
-            "e4f75011b1fe204f8bcbaf4b21946ef1b41e145e9f6be0c7631185b0"
+            "e4f75011b1fe204f8bcbaf4b21946ef1b41e145e9f6be0c7631185b0",
+            "12fe553fa7fa24f99c0c8e2bf3a1f1197e8b3d44d105eb92538ce498"
           ]
         }
       ]
