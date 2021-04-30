@@ -42,7 +42,8 @@
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
           "collectionName": "CMBYN - Faces",
           "policies": [
-            "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b"
+            "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
+            "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477"
           ]
         }
       ]
@@ -809,7 +810,7 @@
       "collections": [
         {
           "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmaZAaAmRbw3yzQUTSzooJJ8E3uS7Erm16s9fN8ueCuWwB",
-          "collectionName": "charlesgitnick",
+          "collectionName": "harlesgitnick",
           "policies": [
             "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
             "df142ed23ec3d8f636d1b62e6eedf96141abec51ab18363d0bf6316d"
