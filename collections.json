@@ -741,7 +741,8 @@
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions.jpeg",
           "collectionName": "Visions",
           "policies": [
-            "2240892b3076cdd32dd22ab00c074cac5471d7612f690e4c1b64b802"
+            "2240892b3076cdd32dd22ab00c074cac5471d7612f690e4c1b64b802",
+            "7b9e74668dad56367f9314485a402c726d3bb8561834fdf253c65c4b"
           ]
         }
       ]
