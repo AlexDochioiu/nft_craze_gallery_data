@@ -818,5 +818,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Fernando Torelli",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/fernandotorelli.jpg",
+          "collectionName": "Fernando Torelli",
+          "policies": [
+            "56d65af080d23193e98368f360c38ccad21ee9420e4efe9352b40f0e"
+          ]
+        }
+      ]
     }
   ]
