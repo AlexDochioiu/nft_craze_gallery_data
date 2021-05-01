@@ -12,6 +12,19 @@
       ]
     },
     {
+      "project": "Creepy Cardano",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_cardano.jpeg",
+          "collectionName": "Creepy Cardano",
+          "policies": [
+            "ca3faeb4d8443a4ac18c58c66324609364b2885690fa71c78944ac5c",
+            "fa26e0df7c8dd4bebdcb366a376ec800cebe6962316a261a66e7a268",
+            "0ba0b3d7c4c43d6bae21c170cf184a19833335c4cbe411652b88bac7"
+          ]
+        }
+      ]
+    },{
       "project": "VEGAS ADA Pool",
       "collections": [
         {
