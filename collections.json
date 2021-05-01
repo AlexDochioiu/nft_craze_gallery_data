@@ -24,6 +24,18 @@
       ]
     },
     {
+      "project": "Lucky Neko",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
+          "collectionName": "Lucky Neko",
+          "policies": [
+            "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Berries",
       "collections": [
         {
