@@ -705,7 +705,8 @@
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bobabits.jpeg",
           "collectionName": "BobaBits",
           "policies": [
-            "b19021b4993e4a282dd0e0d9e74d7608cd6c59fb63827a0838f4155f"
+            "b19021b4993e4a282dd0e0d9e74d7608cd6c59fb63827a0838f4155f",
+            "b167b8b3fcf772b4cfc5e976885a49092a7e69d64df7c3b24efe1e11"
           ]
         }
       ]
