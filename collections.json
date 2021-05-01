@@ -12,6 +12,18 @@
       ]
     },
     {
+      "project": "Cardnio",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardino.jpeg",
+          "collectionName": "Cardnio",
+          "policies": [
+            "ddbec62c21a859bb2b556862b2182a4e55ad505bc31a2339a7d085fe"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Creepy Cardano",
       "collections": [
         {
