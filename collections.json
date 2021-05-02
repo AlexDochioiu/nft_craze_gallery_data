@@ -897,5 +897,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Cardano Warriors",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_warriors.jpg",
+          "collectionName": "Cardano Warriors",
+          "policies": [
+            "8f80ebfaf62a8c33ae2adf047572604c74db8bc1daba2b43f9a65635"
+          ]
+        }
+      ]
     }
   ]
