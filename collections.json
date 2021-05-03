@@ -909,5 +909,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "SushiBytes",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sushi_bytes.jpg",
+          "collectionName": "SushiBytes",
+          "policies": [
+            "cd4f09ef0a8f9a3557903d2c9a45b2f6198f1267c2031bc9228ed74a"
+          ]
+        }
+      ]
     }
   ]
