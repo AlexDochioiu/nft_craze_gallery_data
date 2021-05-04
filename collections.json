@@ -1034,5 +1034,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Head of Cards",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/head_of_cards.jpg",
+          "collectionName": "Head of Cards",
+          "policies": [
+            "01ef3d1ce227d3eaf1403fe9a3c773d0aef7cefce119913ee9d4ef3b"
+          ]
+        }
+      ]
     }
   ]
