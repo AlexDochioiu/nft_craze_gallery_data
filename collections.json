@@ -921,5 +921,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Cardano Ghosts",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_ghosts.jpg",
+          "collectionName": "Cardano Ghosts",
+          "policies": [
+            "04fa93174fdd34d841a1db5c2faa72452c7dc729a53f88d869d77500"
+          ]
+        }
+      ]
     }
   ]
