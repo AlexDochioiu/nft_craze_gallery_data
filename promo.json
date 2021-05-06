@@ -1,0 +1,82 @@
+[
+    {
+      "layout": "STATIC_TEXT",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+        "title": "DoorsToBeyond",
+        "subtitle": {
+          "text": "Placeholder 1",
+          "textColour": "#FF003D"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Placeholder 2",
+          "textColour": "#FF003D"
+        },
+        "imageUrls": [
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+          "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg"
+        ],
+        "button": {
+          "text": "Find More Details",
+          "url": "twitter.com",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-05-06T18:29:11+00:00",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
+        "title": "DoorsToBeyond V2",
+        "subtitle": {
+          "text": "Live Now",
+          "textColour": "#000000"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Live Now",
+          "textColour": "#000000"
+        },
+        "imageUrls": [
+            "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+            "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg"
+        ],
+        "button": {
+          "text": "Buy Now",
+          "url": "twitter.com",
+          "enabled": true
+        }
+      }
+    },
+    {
+      "layout": "COUNTDOWN",
+      "countdownEndDate": "2021-15-06T18:29:11+00:00",
+      "collectionScreen": {
+        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
+        "title": "DoorsToBeyond V3",
+        "subtitle": {
+          "text": "Live Now",
+          "textColour": "#000000"
+        }
+      },
+      "galleryScreen": {
+        "header": {
+          "text": "Live Now",
+          "textColour": "#000000"
+        },
+        "imageUrls": [
+            "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+            "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg"
+        ],
+        "button": {
+          "text": "Coming Soon",
+          "url": "twitter.com",
+          "enabled": false
+        }
+      }
+    }
+  ]
