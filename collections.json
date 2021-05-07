@@ -260,6 +260,18 @@
       ]
     },
     {
+      "project": "aeoniumsky",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/aeoniumsky.gif",
+          "collectionName": "aeoniumsky",
+          "policies": [
+            "4e398bb649f51a5622ffcce9658d219c0ecf50a58dcd03ec1884c3c3"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Professor Cardano",
       "collections": [
         {
