@@ -1063,5 +1063,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "ICS Studio Paintshop",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/ics_rocket.jpg",
+          "collectionName": "ICS Studio Paintshop",
+          "policies": [
+            "dee1b42993f084d15dc7dc5d55cd81fae5ccc386ab75408747d75e3a"
+          ]
+        }
+      ]
     }
   ]
