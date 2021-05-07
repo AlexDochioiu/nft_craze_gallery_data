@@ -36,6 +36,21 @@
       ]
     },
     {
+      "project": "Roach",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/roach.png",
+          "collectionName": "Roach",
+          "policies": [
+            "aec4aea74cbef4bab68839f224f2b6e208e06992cca39c33a698e13a",
+            "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
+            "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
+            "9442ad535e93250f20775a1993489cbf1b681d8c9f19c373e962a26a"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Creepy Cardano",
       "collections": [
         {
