@@ -108,7 +108,9 @@
           "policies": [
             "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
             "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477",
-            "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797"
+            "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797",
+            "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7",
+            "63f14997b7e45a2b9759ba033271b66ccaac5ab5e7381dde9d864cc7"
           ]
         }
       ]
@@ -255,6 +257,18 @@
           "collectionName": "The Cryptoverse",
           "policies": [
             "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21"
+          ]
+        }
+      ]
+    },
+    {
+      "project": "Cryptoglyphics",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoglyphics.png",
+          "collectionName": "Cryptoglyphics",
+          "policies": [
+            "cf82723073a0bfa585e53c85474327684e56136614653b65bfb2a844"
           ]
         }
       ]
