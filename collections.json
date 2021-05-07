@@ -268,7 +268,8 @@
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoglyphics.png",
           "collectionName": "Cryptoglyphics",
           "policies": [
-            "cf82723073a0bfa585e53c85474327684e56136614653b65bfb2a844"
+            "cf82723073a0bfa585e53c85474327684e56136614653b65bfb2a844",
+            "65c5a4347c572b64c876e8c4cbede5e157f5ca5fde1a9bfae52f436d"
           ]
         }
       ]
