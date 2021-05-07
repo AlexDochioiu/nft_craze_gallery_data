@@ -688,7 +688,8 @@
           "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/chaotic_mathematics.jpeg",
           "collectionName": "Chaotic Mathematics",
           "policies": [
-            "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191"
+            "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191",
+            "d3805771f8860e718df91b530b3723b7c821dc40c128629539859603"
           ]
         }
       ]
