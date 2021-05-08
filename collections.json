@@ -831,6 +831,18 @@
       ]
     },
     {
+      "project": "OutdoorArtz",
+      "collections": [
+        {
+          "logoUrl": "https://gist.githubusercontent.com/kangtinglee/045c5c1d4d3b055fd99cfd0c175950dd/raw/6349af70cc5240d9e5f9b3ed3ffa4e0c51bfb99a/OutdoorArtzCoin.png",
+          "collectionName": "OutdoorArtz",
+          "policies": [
+            "7ee6ea00ff2db92efc3c38054405def43539f97522c736fe4613dc87"
+          ]
+        }
+      ]
+    }
+    {
       "project": "CORN 'n FRIENDS",
       "collections": [
         {
