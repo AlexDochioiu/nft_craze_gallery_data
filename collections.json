@@ -1146,5 +1146,17 @@
           ]
         }
       ]
+    },
+    {
+      "project": "Crypto Doggies",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodoggies.jpg",
+          "collectionName": "Crypto Doggies",
+          "policies": [
+            "7724da6519bbdda506e4d8acce11e01e01019726ddf017418f9c958a"
+          ]
+        }
+      ]
     }
   ]
