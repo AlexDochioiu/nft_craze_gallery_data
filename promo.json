@@ -20,7 +20,7 @@
         ],
         "button": {
           "text": "Find More Details",
-          "url": "twitter.com",
+          "url": "https://twitter.com/nft_craze",
           "enabled": true
         }
       }
@@ -47,12 +47,12 @@
         ],
         "button": {
           "text": "Buy Now",
-          "url": "twitter.com",
+          "url": "https://twitter.com",
           "enabled": true
         },
         "buttonAfterCountdown": {
           "text": "Buy Now",
-          "url": "nft-craze.art",
+          "url": "https://nft-craze.art",
           "enabled": true
         }
       }
@@ -79,12 +79,12 @@
         ],
         "button": {
           "text": "Coming Soon",
-          "url": "twitter.com",
+          "url": "https://twitter.com",
           "enabled": false
         },
         "buttonAfterCountdown": {
           "text": "Buy Now",
-          "url": "nft-craze.art",
+          "url": "https://nft-craze.art",
           "enabled": true
         }
       }
