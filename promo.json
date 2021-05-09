@@ -2,7 +2,7 @@
     {
       "layout": "STATIC_TEXT",
       "collectionScreen": {
-        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+        "imageUrl": "https://static.wixstatic.com/media/463c6d_466af40929c94fd191782884f264bdfa~mv2.png/v1/fill/w_127,h_71,al_c,q_85,usm_0.66_1.00_0.01/NFT_Craze_Logo-04.webp",
         "title": "DoorsToBeyond",
         "subtitle": {
           "text": "Placeholder 1",
@@ -29,7 +29,7 @@
       "layout": "COUNTDOWN",
       "countdownEndDate": "2021-05-06T18:29:11+00:00",
       "collectionScreen": {
-        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
+        "imageUrl": "https://static.wixstatic.com/media/463c6d_466af40929c94fd191782884f264bdfa~mv2.png/v1/fill/w_127,h_71,al_c,q_85,usm_0.66_1.00_0.01/NFT_Craze_Logo-04.webp",
         "title": "DoorsToBeyond V2",
         "subtitle": {
           "text": "Live Now",
@@ -49,6 +49,11 @@
           "text": "Buy Now",
           "url": "twitter.com",
           "enabled": true
+        },
+        "buttonAfterCountdown": {
+          "text": "Buy Now",
+          "url": "nft-craze.art",
+          "enabled": true
         }
       }
     },
@@ -56,7 +61,7 @@
       "layout": "COUNTDOWN",
       "countdownEndDate": "2021-15-06T18:29:11+00:00",
       "collectionScreen": {
-        "imageUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
+        "imageUrl": "https://static.wixstatic.com/media/463c6d_466af40929c94fd191782884f264bdfa~mv2.png/v1/fill/w_127,h_71,al_c,q_85,usm_0.66_1.00_0.01/NFT_Craze_Logo-04.webp",
         "title": "DoorsToBeyond V3",
         "subtitle": {
           "text": "Live Now",
@@ -76,6 +81,11 @@
           "text": "Coming Soon",
           "url": "twitter.com",
           "enabled": false
+        },
+        "buttonAfterCountdown": {
+          "text": "Buy Now",
+          "url": "nft-craze.art",
+          "enabled": true
         }
       }
     }
