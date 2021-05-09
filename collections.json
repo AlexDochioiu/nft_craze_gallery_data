@@ -1007,6 +1007,18 @@
       ]
     },
     {
+      "project": "Cardano Comics",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_comics.jpg",
+          "collectionName": "Cardano Comics",
+          "policies": [
+            "204f2989b16e075f01c8360e3d085e18194b7e978994a732a8638522"
+          ]
+        }
+      ]
+    },
+    {
       "project": "GlitchCreation",
       "collections": [
         {
