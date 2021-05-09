@@ -152,7 +152,8 @@
             "058b122aec338e37cdaca12caf079cac8951ad15d514de5625667e36",
             "06b8b78c68c6a3a49168b9c0f0f4c3c9189865e0ec11681ad32d904e",
             "fa51d06ebd5c861f5857dca8c3c7c95a0f6b1657209d727cbb25818f",
-            "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873"
+            "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
+            "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3"
           ]
         }
       ]
@@ -282,6 +283,18 @@
           "collectionName": "aeoniumsky",
           "policies": [
             "4e398bb649f51a5622ffcce9658d219c0ecf50a58dcd03ec1884c3c3"
+          ]
+        }
+      ]
+    },
+    {
+      "project": "AmoraNFT",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/amora.jpeg",
+          "collectionName": "AmoraNFT",
+          "policies": [
+            "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922"
           ]
         }
       ]
@@ -795,7 +808,8 @@
             "1a01a612686fef903d7b07173435e8354523747a9e2494f5b2e7785e",
             "a185203b9f898d8b068245dafbc15173f120bcb0759c24a6578c246f",
             "469239b9c48cf9ae11300136563bb2d174eefd1f6a3f764d6b5312bb",
-            "6b49e3657b6686fe0ff69af5dd6b1deb2e52e10810478383268593fe"
+            "6b49e3657b6686fe0ff69af5dd6b1deb2e52e10810478383268593fe",
+            "4fd307695d244431ca93599be34d9aea403f24cf30f2eadcd7a178e2"
           ]
         }
       ]
