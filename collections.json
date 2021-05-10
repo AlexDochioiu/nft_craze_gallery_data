@@ -394,6 +394,13 @@
           "policies": [
             "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23"
           ]
+        },
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic02.jpg",
+          "collectionName": "ADABirds SET #IC02",
+          "policies": [
+            "7d4f432d13eecbc6ff83477d31e67ed4fb8cad3251b13f46b5d71362"
+          ]
         }
       ]
     },
