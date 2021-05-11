@@ -290,6 +290,30 @@
       ]
     },
     {
+      "project": "CRYPTODELICS",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelics.gif",
+          "collectionName": "CRYPTODELICS",
+          "policies": [
+            "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f"
+          ]
+        }
+      ]
+    },
+    {
+      "project": "CARDANO DEMON",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_demon.gif",
+          "collectionName": "CARDANO DEMON",
+          "policies": [
+            "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b"
+          ]
+        }
+      ]
+    },
+    {
       "project": "AmoraNFT",
       "collections": [
         {
