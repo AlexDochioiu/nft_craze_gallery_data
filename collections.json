@@ -750,6 +750,18 @@
       ]
     },
     {
+      "project": "Alpha",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/alpha.jpeg",
+          "collectionName": "Alpha",
+          "policies": [
+            "f093395d87ab54d2c01118af0b3e830481d25a2c8026466ae34842a2"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Julian Lyle",
       "collections": [
         {
