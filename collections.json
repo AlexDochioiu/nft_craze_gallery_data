@@ -1,1312 +1,1424 @@
 [
-    {
-      "project": "Cardano Bits",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_bits.jpeg",
-          "collectionName": "Cardano Bits",
-          "policies": [
-            "1131301ad4b3cb7deaddbc8f03f77189082a5738c0167e1772233097"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardnio",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardino.jpeg",
-          "collectionName": "Cardnio",
-          "policies": [
-            "ddbec62c21a859bb2b556862b2182a4e55ad505bc31a2339a7d085fe"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CardanoMonsters",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_monsters.jpeg",
-          "collectionName": "CardanoMonsters",
-          "policies": [
-            "2c7caf462418609495ed78652115430875a24e18cc8a240b00bc09b9"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Roach",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/roach.png",
-          "collectionName": "Roach",
-          "policies": [
-            "aec4aea74cbef4bab68839f224f2b6e208e06992cca39c33a698e13a",
-            "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
-            "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
-            "9442ad535e93250f20775a1993489cbf1b681d8c9f19c373e962a26a",
-            "adfb2cd5592a2a3030145ae6c395648ed47f18a9d6a117a24ee2578d"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Creepy Cardano",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_cardano.jpeg",
-          "collectionName": "Creepy Cardano",
-          "policies": [
-            "ca3faeb4d8443a4ac18c58c66324609364b2885690fa71c78944ac5c",
-            "fa26e0df7c8dd4bebdcb366a376ec800cebe6962316a261a66e7a268",
-            "0ba0b3d7c4c43d6bae21c170cf184a19833335c4cbe411652b88bac7",
-            "27ce16cbb88719be9721efdd4a97a53ac882e2c7e3b5dafd20442f40",
-            "ee260f1030016edcdc93cfc3d956d215666849b84fc91dc0ed1a256a"
-          ]
-        }
-      ]
-    },{
-      "project": "VEGAS ADA Pool",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/vegas_ada_pool.jpeg",
-          "collectionName": "VEGAS ADA Pool",
-          "policies": [
-            "1622a0165ab7eb03df32c0368450f2b3425cdee919c1870c4f05e7ea"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Lucky Neko",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
-          "collectionName": "Lucky Neko",
-          "policies": [
-            "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Berries",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/berry.jpeg",
-          "collectionName": "Berries",
-          "policies": [
-            "b863bc7369f46136ac1048adb2fa7dae3af944c3bbb2be2f216a8d4f"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Chadi Nassar - Call Me By Your Name",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
-          "collectionName": "Chadi Nassar - Call Me By Your Name",
-          "policies": [
-            "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
-            "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477",
-            "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797",
-            "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7",
-            "63f14997b7e45a2b9759ba033271b66ccaac5ab5e7381dde9d864cc7"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Pating RA",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/pating_ra.jpeg",
-          "collectionName": "Pating RA",
-          "policies": [
-            "918d8b4ae732fd29e08343f75bf7b90c354407488c22327415b2a3d9",
-            "f166848f8ad1839a88cc6b15634cc991900f105b91ab3c5ac3a82217",
-            "c39d636291eaf863642ef7cc6a860fba09aa9864efaac814473d1b6d",
-            "db95e4dffcc8a086a315fd7278d0b7b0b990a06e018080bbf1636421"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "BubbleGoblin",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bubble_goblin.jpeg",
-          "collectionName": "BubbleGoblin",
-          "policies": [
-            "f777159f6ffbc799906aefbe87b790bc1fbd2740200542437dbbbeb4",
-            "139abfce3774e66a66da1d7e9918903cb5e61a6c9ad60072090f09c4",
-            "4ad09f73bf13f17c1c0a30976dda9db8b3996fddee67ab9cb63d359e",
-            "9173aa07f36352e3c39557cc6791608869e34fa912a7d6523d6174d6",
-            "da041e3a0776e42e37fcd689ca8d163c6cc79baf4b3d00ae9428decb",
-            "3b78a85bba1e59203ea5ed0abb60cc18b4f2a81b3515379eb8520103",
-            "49edb1974d1ccc849d12a8eaa3da8b7cc495bea3d48bfd77f1b2f646",
-            "0d0da1536455d9f83bfdd41e298a63efd94cda3e087ca1ef436e3183",
-            "0375a4fb8b004404daac537d4ed2600755e0373b09d1ec821758a02d",
-            "7f98148b9a20ed6da4e013b4a4c6126e61c436b405bbdb988bf034ab",
-            "374053e59f00bd1a5301bb7a8a6a5a91da99cbc7a0cd29df9582a31a",
-            "88b0e21c54f93bc8ddd723a1fe87573008ccaff490e51e9485d06d02",
-            "058b122aec338e37cdaca12caf079cac8951ad15d514de5625667e36",
-            "06b8b78c68c6a3a49168b9c0f0f4c3c9189865e0ec11681ad32d904e",
-            "fa51d06ebd5c861f5857dca8c3c7c95a0f6b1657209d727cbb25818f",
-            "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
-            "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CardanoCubes",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_cubes.jpeg",
-          "collectionName": "CardanoCubes",
-          "policies": [
-            "324f316d40e0c730d7c836daf3c0cb825376a5719d3c5a88543db4ff"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Charles Emotions",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/charles_emotions.gif",
-          "collectionName": "Charles Emotions",
-          "policies": [
-            "46ad4d965d640fc9865d5bd64eae11dd13cc05ff682c879564961919"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Kidz",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
-          "collectionName": "Cardano Kidz",
-          "policies": [
-            "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
-            "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1",
-            "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b",
-            "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
-            "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa",
-            "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d",
-            "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9",
-            "4277af377ea2832f66d907636590bcbe822e4b009d254d28d84bd7cb",
-            "b22cdb567a859e243053692802985d1585f4d5c5bcd79be732cff6cc"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Space Budz",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/spacebudz.jpeg",
-          "collectionName": "Space Budz",
-          "policies": [
-            "d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Crypto Mayor",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/crypto_mayor.jpeg",
-          "collectionName": "Crypto Mayor",
-          "policies": [
-            "5e889bcb83b884bb6d768cfc483845cd6ccee79c2b5a4a15dae7ff47"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Finger Monsters",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/finger_monsters.webp",
-          "collectionName": "Finger Monsters",
-          "policies": [
-            "6c96047dc3e440f63131848056ff2175f316eb1ae807f7882c7885f8",
-            "c48399365969a5b3e08640d41bdd6581ecc814ff6cd5bb081556ffb1",
-            "4d4ff7563447720d50a46ac83f8236430db79dc9da75a7cf91852e6a"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Punkster Art",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmTGJj9QDabTjvBbzTMGdPZewBUyHThpShySUtgg7oVcSv",
-          "collectionName": "Punkster Art",
-          "policies": [
-            "84c0acb101c14416ad92859c429058871e201804468d5f353be31d71"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Adafolio",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmW5BgShc993rUvdZKhNKJJr4enWRTxquUwquV23p8dBEk",
-          "collectionName": "AdaCards",
-          "policies": [
-            "923c31f3790f6a6c858971d6b1241390ed0e0dab5965652782ab12dc"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "The Cryptoverse",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoverse.png",
-          "collectionName": "The Cryptoverse",
-          "policies": [
-            "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cryptoglyphics",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoglyphics.png",
-          "collectionName": "Cryptoglyphics",
-          "policies": [
-            "cf82723073a0bfa585e53c85474327684e56136614653b65bfb2a844",
-            "65c5a4347c572b64c876e8c4cbede5e157f5ca5fde1a9bfae52f436d"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "aeoniumsky",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/aeoniumsky.gif",
-          "collectionName": "aeoniumsky",
-          "policies": [
-            "4e398bb649f51a5622ffcce9658d219c0ecf50a58dcd03ec1884c3c3"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CRYPTODELICS",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelics.gif",
-          "collectionName": "CRYPTODELICS",
-          "policies": [
-            "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CARDANO DEMON",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_demon.gif",
-          "collectionName": "CARDANO DEMON",
-          "policies": [
-            "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "AmoraNFT",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/amora.jpeg",
-          "collectionName": "AmoraNFT",
-          "policies": [
-            "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Mr. Intangble",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/mr_intangble.png",
-          "collectionName": "Mr. Intangble",
-          "policies": [
-            "f8aaadf6a25cddb0fc1a295fe5369af97a67b5517a497b058980d0a8",
-            "2e0262033407d8a5f8485e8d5149035dbc0547a5bb0c1a60d6d97482",
-            "8db29c12bd8d5e1463a7ba36a2e2d4bc177b167164c2cb8c0be61c7e"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Professor Cardano",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
-          "collectionName": "Professor Cardano",
-          "policies": [
-            "e85a0209a5d4dd2f4bc12783f65742f1994b16e506eef8b7296fc778",
-            "c2fe5590c582d1c53dbd7dd72b702b78407a67dae9a2046d577fa4c3",
-            "732e6d63d1081962ffb39152917e550ac1a7a8aad419786babfa4996",
-            "82666abf5105ac43a4171d9b95ca83a25556b529f025a1b5cf61cf32",
-            "42025be91489495e239b5ef7547f0635229b9a935878b03d11980e0a",
-            "96952826c85307f8d8df795f9d2f4fcceeadb46705bd9e0656232db8",
-            "1420af39eb2a6df01ecf542e70bf103102f00b433109f71ff067ebf2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardanoverse",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZErBudKGXX5Jc4AFVuG1k56aSrzTTc33suVmBX1MNVkA",
-          "collectionName": "Cardanoverse",
-          "policies": [
-            "eb9a04fdf80abfb835562fc3aeb9a234e6f795678daf3566dc1acf27",
-            "89f04baaff486a7a362991c4dff5af6d1b8ab748d0dc404b79e3a94f",
-            "f28dc98c31d77af5a9abb79a06c65a47085b5c1579660bc5ab907de0",
-            "3cf9fe951b4e666fd047a7bc31cce29b4df790dfcc56ca6390836296"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Street Art CNFTs",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/street_art_cnfts.jpeg",
-          "collectionName": "Street Art CNFTs",
-          "policies": [
-            "4b21109cf578a4739c1f806aba0ef71b9d6e2736743c5510698462e1"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "RetroNFTs",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
-          "collectionName": "RetroNFTs - The Doomsday",
-          "policies": [
-            "8e83eb63ab3014664ee5348c1607b587198a3a8134dc61e6a3beac45"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
-          "collectionName": "RetroNFTs - TestToken",
-          "policies": [
-            "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "ADABirds",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZTc8BBX9oEiatXMf8BtaxXLxBBhWm1VcWZDefLxKWtv6",
-          "collectionName": "ADABirds SET #000",
-          "policies": [
-            "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic01.jpeg",
-          "collectionName": "ADABirds SET #IC01",
-          "policies": [
-            "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic02.jpg",
-          "collectionName": "ADABirds SET #IC02",
-          "policies": [
-            "7d4f432d13eecbc6ff83477d31e67ed4fb8cad3251b13f46b5d71362"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "MAD in Art",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/mad_in_art.jpeg",
-          "collectionName": "MAD in Art",
-          "policies": [
-            "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb",
-            "8301b4e380a83db15615b484f564304832b3cd5f82cb8cbd5795e88e",
-            "2fa7bb4e87a7f2c02ce9c0694260a6f5b002a8214a5e3fa40c6cd9fd",
-            "87675e1c0ca19c83c6d709cf6af96438f8a19a6605c776e5ba409c45",
-            "6b8a9aac49fe6809e9a98053dc2e00b271c88f8ffddf3321925df703",
-            "a2d79509e04502b4b792f0196dca9f269a0b60d612672f0502da7c30"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Blizzeffect",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmewqLnSPRHrk4yNQYja3yxkQrVyExNeytiogXC9SDDwo5",
-          "collectionName": "Blizzeffect Creatures",
-          "policies": [
-            "9900680bccc9955c81c40afa1e562c9d5cbd31d1c80e1aff68c2f0db",
-            "779f3cc1ef30bbfa12a8a92788adc8adeefecaed502ad9e62045d32a",
-            "44efb54513ff8441fdff2a2d7ca9ebb4caef7668fa7881cbe9307a44",
-            "ddddd3d7af195bba6f6df280156fdbc91735eae8981e41fd911b9a3b"
-          ]
-        },
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYbEbVjpJ7GgeGWUB46pWqDe7tvHR8ueKmFWg9sN9oBd7",
-          "collectionName": "Blizzeffect",
-          "policies": [
-            "9e64077906467d4a62ce032829bddc334292798e706e56506f84e758",
-            "2a68426af4d0838fefde9621de2bd3efc939579dec77d61df6139aca",
-            "86b4334851956d2f8400bab0122b13ecd4576be7546400c639999bc2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Bricksfun",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmdpwp1o2MSzFzazqWfLgcunSTMuvRqPzRMrLdm8PkKvhX",
-          "collectionName": "Bricks-Fun",
-          "policies": [
-            "33f743a78443b6c5aa69037311fbe765e3f0a4279f61e3f1d8286fad",
-            "7103d9ea701e4f8ccad9babe53e879c8760494bb8c27fb988a59d650"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Tonoy",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/tonoy_guitar.jpeg",
-          "collectionName": "Tonoy Guitar",
-          "policies": [
-            "eb9afab12c81b161c3261449e93ae07d8fa88b70f4c1122f6c34c833"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "rwpNFT",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/rwpnft.png",
-          "collectionName": "rwpNFT",
-          "policies": [
-            "1d67267f255d6f25ab88c45e0fd86378f1d4cf959b49b857bcb1d1fc",
-            "7a50ae683d32bdb5f34fcc00c91b4775d48fa4097ae95847109be56c",
-            "c064f171384709b50a89e7d8aac625846b9ab759bc746b8bb91c9ae2",
-            "8ca9d7f3480c2a0e8e68c41fa8c0326de768e6160562eea2539a0890",
-            "92f85349ff449573a47ca9fde63c89bfe5a9a73b21e563477c959065",
-            "a4b7e719dc3dae697178835b66982d6c663c71f9f1106bb2360ea970",
-            "8fea90d673cbdd5b3da3309fb7cf1dcbb1c485ba6a7e5148468351a2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Countries",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_countries.jpeg",
-          "collectionName": "Cardano Countries",
-          "policies": [
-            "5d58881d98f367befbce25ff966ee22b4de8f099da0e7f71c089e542"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Yasenchariyski",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yasenchariyski.jpeg",
-          "collectionName": "Yasenchariyski",
-          "policies": [
-            "270235444667eaa14939b0b9d0c4cb16d1304fe1e401adb57a8b33d0"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CardanoGang",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gang.jpeg",
-          "collectionName": "CardanoGang",
-          "policies": [
-            "7c921852e38f220c90de1bf70800918ee789284c856548a5e5b8cc5f",
-            "e7ccf3b8dcfe743eb77bc92dbeba4cc26c05b9e2231915f7f773dca9",
-            "82d4481e28a5ce94dd7c55d42b1cfcc1e5443e65f07065f09be5c756",
-            "97f9a18b6bdc02837ec8b0957b3f29eb527bb3fc82346d37fa8affe5",
-            "de8bf15db0d5034a56523625edc1f8151f4a3b1003792e23adc92097",
-            "70082db67d9af998b5d6469728a245f0b353beec279535b364bfb826",
-            "57132dcd3b42f816421c1fd97ba3a7b6b203fde5bc82493d0d40f4f6",
-            "ef2675eaba142e51a328d0961182ba87bf34b065edcec3aa0cc8b2af",
-            "c3e9375be5c04b8d737d8f427868a43c463284f02e45cbeaa259e81f",
-            "a1f244ca5d23920d64a05a40f1babca08a8d958a4f9fa6fa32f45b13",
-            "d81327be18f924ee4ef5889dee6b12d0900425a75da9e0358680d302",
-            "cda129dff919ac57d1356905419d64fb27b700a5646428ea5d521530",
-            "0f6b324f60b34443c378bf440cf515dba66679d0d9b9883642704964"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "StigmaNFT",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/stigma_nft.jpeg",
-          "collectionName": "StigmaNFT",
-          "policies": [
-            "3f564f034a9ff9080d4988956a1a25089910c88fc2cb3ab17cfd970e"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CardanoJimbo",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_jimbo.jpeg",
-          "collectionName": "CardanoJimbo",
-          "policies": [
-            "46705d4026746babbc3c42ab999f15f306e846a8b13cf7a108e726cc"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "BeerSommelier",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/beer_sommelier.jpeg",
-          "collectionName": "BeerSommelier",
-          "policies": [
-            "498e2baee0ea6603db7faefa4309567273079c1f559621e19480c1a7"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Flow For India",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flow_for_india.png",
-          "collectionName": "Flow For India",
-          "policies": [
-            "949dbdd63f3157100e3b98dffb20259f5053bcddb1ce6fd253c6da85"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Robin",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_robin.jpeg",
-          "collectionName": "Cardano Robin",
-          "policies": [
-            "a5b55966878d32516a33350ce1f1b46246cb92b9c9c815f0d97b02ca",
-            "67e63c46cc17a30f39b330c70cc6d302edb5f137cee489911755f6fb",
-            "b557e1ab85be9e7efe92375373431ea784c725b156534f8054c698b2",
-            "6455a535c11a680001d31b88ff3f0ce6a74480880d08d1249cd82904"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Anim8bits",
-      "collections": [
-        {
-          "logoUrl": "https://user-images.githubusercontent.com/30282890/116137850-abdd9500-a706-11eb-8383-0b78c6f9131b.gif",
-          "collectionName": "Anim8bits",
-          "policies": [
-            "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Deveerei",
-      "collections": [
-        {
-          "logoUrl": "https://user-images.githubusercontent.com/30282890/116137898-bbf57480-a706-11eb-981d-98e3ea2adf5a.gif",
-          "collectionName": "Deveerei",
-          "policies": [
-            "84833edd532678d86bd0cc20d64b78a31fea460d9e5e862d99db14bd",
-            "0d20e28fc29ec1c54e562d276c77d72185e19618ee68d4a8f5775643",
-            "a147c2d6821738c0d7b964efddcbd1c58eee6fcabc595bdf3dc9f063",
-            "c1e7dce06ef37fccb60bd16db42330e21da1ce6e9b66295b8ae9a534",
-            "e3920a05bf0ee63f931d12d0e0189c20d624619b933454ab309c1cbd",
-            "8302cf1365b26cdc34bb4cca475fb34bd77bd81a54728f7a3f414413"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Jeseemei",
-      "collections": [
-        {
-          "logoUrl": "https://user-images.githubusercontent.com/30282890/116694420-db83ea00-a9f1-11eb-960b-0e7d4536048e.gif",
-          "collectionName": "Jeseemei",
-          "policies": [
-            "9a6aebf21412b0f030923283e87f4fa740019b2284f9c429beeed5b2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Voodz",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_voodz.jpeg",
-          "collectionName": "Cardano Voodz",
-          "policies": [
-            "592c3cb9c56148a8d7a2c8616aa018b2cd1d98c4f9fef050aba939f2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Low Poly Dragons",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/low_poly_dragons.jpeg",
-          "collectionName": "Low Poly Dragons",
-          "policies": [
-            "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1",
-            "0d22285277beb69d51608048e2fe459ea5b28033a4a257d54ad4eee3v"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Ave Mariya Collection",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/avei_mariya_art.jpeg",
-          "collectionName": "Ave Mariya Collection",
-          "policies": [
-            "08dc1cfaf8213a15855ce732c64118d16534889f65c92abb3c3b243f"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "DM Photography Shanghai",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/dm_photography_shanghai.jpeg",
-          "collectionName": "DM Photography Shanghai",
-          "policies": [
-            "7cd75f62734b33734d18bbb3ea55a30b4912cc5642058f97a5f3eef0"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Takeover",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_takeover.jpeg",
-          "collectionName": "Cardano Takeover",
-          "policies": [
-            "63787c07d269d8243efeb78cfcf9d4eaba4e1f231bf373c46d54cffd",
-            "71ac1e8c7661a254b0386c8cd0c46b0ab9a2137d98c43de894abfaf4",
-            "b19bfc777c769a146bba72236c2938ca04f5718bb336fc2e7ca46a53",
-            "a77e3f2a1d4c2ca964048e6fe5a5a67883ee5b692909d3f9999335a6",
-            "99dc9b523c59e85b39efd1cd2ab365fc58517b2114e2d2a5320a3c95"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CreepyBallz",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_ballz.jpeg",
-          "collectionName": "CreepyBallz",
-          "policies": [
-            "00255c245861e1e15ef8aced64d44dd20682ee7c2bb42b7941e199dd"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "TYLRwithspaces",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/whitespaces.jpeg",
-          "collectionName": "TYLRwithspaces",
-          "policies": [
-            "4027768aefcdef653acbd759b2420bd24b0b01881b52cd888d19fc1b"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Gods",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gods.jpeg",
-          "collectionName": "Cardano Gods",
-          "policies": [
-            "148b29dce34d2d9f6baf3b0aa53db4ee64976a2f82c91175a0d3f5c4"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Colored Coins",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/colored_coins.jpeg",
-          "collectionName": "Colored Coins",
-          "policies": [
-            "9d3e9e2243d4310e034fd775febc9ed5a03beded6b6b312d9954bed0"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Alpha",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/alpha.jpeg",
-          "collectionName": "Alpha",
-          "policies": [
-            "f093395d87ab54d2c01118af0b3e830481d25a2c8026466ae34842a2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Julian Lyle",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/julian_lyle.jpeg",
-          "collectionName": "Julian Lyle's Collection 001",
-          "policies": [
-            "55dd4519ca2ce4071ba005eb209506d2140cccba49cdc3419dda695c"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "NFT-Craze",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nft_craze.jpg",
-          "collectionName": "NFT-Craze",
-          "policies": [
-            "fc9ca515b755acbf3f8ee4f75822f2a4632c6361b6c14f76deb330b0"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CardanoSpace",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_space.png",
-          "collectionName": "CardanoSpace",
-          "policies": [
-            "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CryptoKnitties",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoknitties.png",
-          "collectionName": "CryptoKnitties",
-          "policies": [
-            "9bee44c5c494dee38622e6da0b3b312820f9f75dd6cc256c769db788"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "NFTUpdate.io",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYNbbN83duNzfZjprXsd7yLa7hjDigQxmDzCcf7gmzppS",
-          "collectionName": "NFTUpdate.io",
-          "policies": [
-            "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475",
-            "883b7a579dd41444c66a6629e5841e1e714e812e51ab01537edd2d5b",
-            "ca9c8dfd333240b3c5124c6ed6c46cac2c26c404861d8f4a34200970",
-            "1c0dea6919c51a3cdf955a9be86622463b251bca92f7481adde89b05",
-            "2392d836499338272af618871b6f3db4a1fb1c575abef4a56c34bb3c",
-            "c79b6baa1aa54b0d55352f6fac73d2588d5efba121bc5388a4c42ece",
-            "68fb69abc121dfb77be74e5d589876ea7fa271a70a905a4bbc580a60",
-            "c5b50ef2453bdd867db094872237ef95cab1d4f2861867fe46a7d124"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Chaotic Mathematics",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/chaotic_mathematics.jpeg",
-          "collectionName": "Chaotic Mathematics",
-          "policies": [
-            "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191",
-            "d3805771f8860e718df91b530b3723b7c821dc40c128629539859603",
-            "339fa5c6ec49c944ebb8df6180c740c071f0cf381a9095cf57cec219"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Swankpie",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/swankpie.jpeg",
-          "collectionName": "Swankpie",
-          "policies": [
-            "4add2b78900ca6701c936c232c5aeebd6a9efb12e4c02b3af424121f",
-            "1d59cbea114574a2d21cb83f655a14b07b218135a8848d29346e2237",
-            "77863f1d0ca4091cdb7ca3708a1a31bbcb28b156d3411b8fe35da1b9",
-            "be9d1bcecf53181453a3359c28cba21006b444ee93669405c1f63213",
-            "40c8aecd0a5988ef99ae6555a0cf2f5678a8c5851fd84a9b06e2babc",
-            "ceb08c376266a74de2020e9e8fad1cd0e38e0c29eb66be3711002ec5",
-            "da1f67869a526f8886577627616ca5aa270c58266136f111e2425abd",
-            "936e0061c6118dfc92406e5c7ff10d8cc3527a56d0a87b8f70e2365a",
-            "4b6c40400fdd096519b0d776f3ee04c46b63c8a20165e8d80f413760",
-            "a7d28ea376d3055cc1c59d0d34876ea52aa9b5d11cd75f2b0223567a",
-            "9d5a3758e9051875ab98a4bd1b67c9d8b7ded4529715d8a7197e13bf",
-            "8bd876119ed2152848cc364db9fab76c5ed8d98fdf53c2157ffd4092",
-            "7b5fd95985e08b72a5c37b9d3c7d863bb8a6fed82ef4741594be357d",
-            "7c306b00720b3a941ede9d6e1c469ec678cea1d1be8f70ff146dd6c8",
-            "a0a0d086d4e778a24305278b82a4faddb86d4279ac11770e87408ebb",
-            "f3281d1ae13c980e914a1f5e290e489c69256f4c1dc943ff1e545dba",
-            "42bae9e0802e4cbf3d9c9faa0f7c5ebd78d732f2d6be3921b034bf05",
-            "e5302f735bb368e2ffc3fac7f7067497062680581e817d33cf2393d5",
-            "bd7e8c0aeddbf768ff40a4883a05f51d3a64805b47fe44ad0ff9b968",
-            "f171e1823137138fe74a407cad6115083ba68cdbca70c344dd59ebc0",
-            "11df31a5d7836dc75561f0bb205deabe2ec58ccd93d2a12147d8d91f",
-            "1a01a612686fef903d7b07173435e8354523747a9e2494f5b2e7785e",
-            "a185203b9f898d8b068245dafbc15173f120bcb0759c24a6578c246f",
-            "469239b9c48cf9ae11300136563bb2d174eefd1f6a3f764d6b5312bb",
-            "6b49e3657b6686fe0ff69af5dd6b1deb2e52e10810478383268593fe",
-            "4fd307695d244431ca93599be34d9aea403f24cf30f2eadcd7a178e2",
-            "aef12ef6ba729fbabfdf48ff4200500e205166d101e4336eb58f524f"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "FLawwed1",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flawwed1.jpeg",
-          "collectionName": "FLawwed1",
-          "policies": [
-            "dc8bfe53d4e3e29c143322edffc0ed08169b8745111cf463b7b539e0",
-            "73407593ab75e61e78f7d4b32a90c208d2549081790ff14ce51d6eb9"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "BobaBits",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bobabits.jpeg",
-          "collectionName": "BobaBits",
-          "policies": [
-            "b19021b4993e4a282dd0e0d9e74d7608cd6c59fb63827a0838f4155f",
-            "b167b8b3fcf772b4cfc5e976885a49092a7e69d64df7c3b24efe1e11",
-            "2e510926015ad921cd0d664a6cceb3d74712b2fe71f7a485cf2005fe",
-            "0ec2e7234993ad38ae744966856a793052ec9e62d20228f4394c1d01",
-            "2c706568da7a87a6a7ce4600f3bad000234ebb846a45f3d868e7419a",
-            "7ffb5397e554b305ce5adf9b67e1e534df82d46b57c064db458c4fbe",
-            "92aefff208ececf69a316089330b3535581c6a2db3812bad722642c2"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "OutdoorArtz",
-      "collections": [
-        {
-          "logoUrl": "https://gist.githubusercontent.com/kangtinglee/045c5c1d4d3b055fd99cfd0c175950dd/raw/6349af70cc5240d9e5f9b3ed3ffa4e0c51bfb99a/OutdoorArtzCoin.png",
-          "collectionName": "OutdoorArtz",
-          "policies": [
-            "7ee6ea00ff2db92efc3c38054405def43539f97522c736fe4613dc87"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "CORN 'n FRIENDS",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/corn_n_friends.jpeg",
-          "collectionName": "CORN 'n FRIENDS",
-          "policies": [
-            "1018656a869c94433567ee9f6190a467605f9f7b6ded220031d9febc"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Clay Mates",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/clay_mates.jpeg",
-          "collectionName": "Clay Mates",
-          "policies": [
-            "6e9ddb1bfafae89c4b026a4d3c1721bf6948027fea9ec03658f0c72c",
-            "0fe8919327cead55e63fcccb79dc770befafce429295a7f8784177a9",
-            "f183298f91f7d0d3799406bea09debac91f2f784e28c370a5dc29e73",
-            "d0c26f5a743bd2bc6d8c32df6e26c439267b1f643ff0cf86e73bc9a0",
-            "25eb164cca25398c0c3ef942a4d78b82ad1cd5efa1bbdd95b40fc5a4",
-            "7ec6005e633510073c76c08632de1fcaaeba040e190bba9ef2c16503",
-            "c410abae1c397ca66bfe0571ef940d13811c6afb1d5775ee1f152476",
-            "c8e5bbe82b0431ff26c3b8480cfafe7569fd2a20128b16d05694276f",
-            "10666769518b83be429590140251049db2d40275732394122e1cce74",
-            "158e03f9baee6062ab93f6e1d5fd6fa0e5f8617da87b1f24a2c5ddd7"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Backwards Geometry",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/backwards_geometry.jpg",
-          "collectionName": "Backwards Geometry",
-          "policies": [
-            "9c9cc19ada98d50a783432a073239fe6d69c5bb695f1972b5d07c3fb"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "NFTea",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nftea.jpg",
-          "collectionName": "NFTea",
-          "policies": [
-            "ddbad80c6f49194b63d711e06a86492963858268fb23f8382b79d2a1"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "JES-Art",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/jes-art.png",
-          "collectionName": "JES-Art",
-          "policies": [
-            "1fbe166f8b6a129161a61b6d3ec0c1ad757d7ea0057f6326f149cf7a",
-            "268cfd94e7d2a8cd59590aa4283dfd790b08a875d5b41b022d4231be",
-            "329ec763ef308f59986f9e4023e252de1d00dd2104928170cf6f7a7b",
-            "ab00cdefc5201396507f7fd5b06dd3b1d239c75323f39f25126d9475",
-            "1dfd91bd4240deeae4490eac7ee39e08445ec0488a12609731adbc4c",
-            "e413348fe8316bc7f9081927debeaaa948dc002a9dc52e46ac7a378d",
-            "2aa7bef36be005fb9985ca2852b14afa66cfc37756a4b0b842e9bde1",
-            "8f753f96340b75fa4fcff4e5e862e44a079f461c38a24b38bdb6e731",
-            "0df827a31a5fdce0a367f1801ad8c3488e5c7e0a071050ca3c597ed4",
-            "59c29ca2b2931f0386cb73eccb70d52fcef91d8a42d7a3903839d691",
-            "e4f75011b1fe204f8bcbaf4b21946ef1b41e145e9f6be0c7631185b0",
-            "12fe553fa7fa24f99c0c8e2bf3a1f1197e8b3d44d105eb92538ce498"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Visions",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions.jpeg",
-          "collectionName": "Visions",
-          "policies": [
-            "2240892b3076cdd32dd22ab00c074cac5471d7612f690e4c1b64b802",
-            "7b9e74668dad56367f9314485a402c726d3bb8561834fdf253c65c4b"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions_architectonic_misbehavior.jpeg",
-          "collectionName": "Architectonic Misbehavior",
-          "policies": [
-            "16c3f2aa310e8d6eb89ebbe454fcb8b5a5231af4f59b24f08d7fc501"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Yummi Universe",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yummi_universe.png",
-          "collectionName": "Yummi Universe",
-          "policies": [
-            "7688e78e7036eef1536b45d7b04dcce29a3cc1fb074696228326da62",
-            "e3a51cc7a08cb1f6af0b9aa0488b848117e8459d179d584610d4abed",
-            "594b9e027099a4ce436ca12f8085c33393aa4c35a7e4327da1edc69c",
-            "1ecb03ff7dc752dba4b4fd1e9c50618b9706d73bb9e1e9f1fd7bc1f6",
-            "396ce6edbfdb166c9c7a502b7ec1f68a74e6bd48975b4f63af668887",
-            "bb25b10f871b2bce1bcb3683eb08e31ccb5434bf52b608a6fc9ebcdd",
-            "c0bd2c897dd95f2ef7b097ac9cdca49295455282ae63a794c6498f54",
-            "1f7f4f354893627bea7058d305fc8b8b2e58483f0edbb11e78f5cca5",
-            "4c1749abf4b74cdf2ee617be2cd976b92d2529889ba885e5d0c648a5",
-            "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba",
-            "e3222eeec84650fee7cbf7cf852a7a441f2f2d1ff063cd77605541ab",
-            "4b922d25832e5113049dc44a57a94c146a5073f3184053974bccad04",
-            "333427e94971f530653bb945f34f914252ad570c0b84dfd8c8e8c97b"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "charlesgitnick",
-      "collections": [
-        {
-          "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmaZAaAmRbw3yzQUTSzooJJ8E3uS7Erm16s9fN8ueCuWwB",
-          "collectionName": "charlesgitnick",
-          "policies": [
-            "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
-            "df142ed23ec3d8f636d1b62e6eedf96141abec51ab18363d0bf6316d",
-            "a1d60e8336aaad680d7e5485a43dda05cab6277f9ad205a76fc76e42"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Fernando Torelli",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/fernandotorelli.jpg",
-          "collectionName": "Fernando Torelli",
-          "policies": [
-            "56d65af080d23193e98368f360c38ccad21ee9420e4efe9352b40f0e"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Comics",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_comics.jpg",
-          "collectionName": "Cardano Comics",
-          "policies": [
-            "204f2989b16e075f01c8360e3d085e18194b7e978994a732a8638522"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "GlitchCreation",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch_creation.png",
-          "collectionName": "GlitchCreation",
-          "policies": [
-            "4a3058f4eb1097e09bc42dfb474d3d47e8b5b5a3dde6bfbf6d3e47ec",
-            "d12252fc220039110c8656abeab5860bdbbb0aed4d79bfaca0a83bd8",
-            "487eb5f897e6c6f71d9457d779fa0ea3d2425530f88f909a1593f77e",
-            "8aa9ad246aebe39c6c57bb2e1feb9b0b93cd880ce34325e7241f3c08",
-            "1ba57283f25f45e2dfd8e5c426072d87fe3f549f4fdd1b97c081a376",
-            "4b3e019d063b8e7b896f8c5674cb188317f127779a188b2ef50e4d81",
-            "2dbfe9e6215f96d29b6adf767ee7d12d91b12a772834cc0cb92673ea",
-            "4efcfbf370dc16be86512c4409126b44685ad0724d15267bd5c04f44",
-            "75cd784b1055d0d42f80f05e18cf0982cd525f60c573c13592ede6ec",
-            "5eb53e1094b1e33e2a79b6d633e21f85133e640872f2622001900a00",
-            "a701d14f26bdf80153d09ee1dcb26cc6fa5c5b22a7723efded06ef7c",
-            "5e1f5b1819dbc3ba88af6e19d306e0bd92f2d2d74ff33811755eb512",
-            "60586977f0cc20de96cd10a02d68f73b8aa71228e83737a6d14c6954",
-            "d0dbc79b10a1e91606546f7f25a560964055b46af42886aa92225176",
-            "5a2fe543bcc34bf94dcaa16ff0f35fdadf7f7437eeec21cbb30c1cf1",
-            "a5df20645ed7c530a71ab4b73cb8dd89d9d407bcb868c4b563d7177e",
-            "d93d88e60aa426184fd8e4620c187e733a7cba266b5b064b3c17ace3",
-            "e1955f35dd1ed6720251ec72855520108a83c9bcd9b97711467080ba",
-            "0fbdd5a3b74f845d639a128197e397386fc84aa8a85366d2381d32ee",
-            "c8fc247803a5ad25b7eed99ce4ff6f7203b3be3151a3193e461aea36",
-            "40a7caec0ebf365ede9e98419d11fcc7a9c3cc61637ea1ba7502125f",
-            "757d94d13d0f52555a2c87f0f3f91b3c4086682ae940ab21059caa7b",
-            "0f7e69a10358ddc3240fe5477a6bf9ecbb7600e23700c1e39658ffae",
-            "e5a37f4a6c04d4204ba74bddfb3fbe88d52da4124422a3aa3453aa39",
-            "1b0c2fd7c6f1a6b1a9e1f12815095fff3b1a31f2bb68bdb06994a443",
-            "e6740df82d9d7064be588b61a9d95869700c5ddd48440d17f8caef11",
-            "4185984960ff3dd483fc02bf25bcd1e2b71fb28b7458d193aba3c568",
-            "d0a31c3f4083b9c4ae250c9c90e2e73981de2f95eeb3a138d6051e42",
-            "d42f3c4d27d7acbe42dc01b203f3ace5b7f71737bd4e7a2474416b5b",
-            "2644ab5d67b485819a1783e542e26a877c97dd43e4bba711a3fa1a94",
-            "b2b245bc65bd44108a46bdda0a9a141eafdf810f101616971647757e",
-            "92677e1e9d3f6d2bc9a35204b0effa7a2d7ee63726c64cde822647e9",
-            "333370671d66f8fb7ff2c54a5c9501a3373a4bb87750ab0e1fb51f2b",
-            "0030e69f03b90a9cbdcee0590b2d3505857ac1964e8bf2505de9a40d",
-            "da2be8ce42e9e611fbb235d978b2ae70de95c97e657ab2e4eec64535",
-            "b8e3c5e1fbe20cd19c08f545ceb7b328bfa72de5f52bbceb8fe8c0ff",
-            "bd995146c06d9fac46d9632fcd248d7273ccacc9482b71f4a31593dd",
-            "743146853942b6bf7f9c0323d33ea0aeb31e8aaab68225c0b2546c76",
-            "cc515bb489276b9498857e2ee63ede1226f2212bef2d4d23219e7b5b",
-            "986aaf2129d3152d39d829413bac1bc800b0038bd11bdaf3956918f9",
-            "36f78470a8f9b72abbe0d917008d3e3e75f668503b9cf26591f34b13",
-            "544f972ad7076d0b29381bb40b5b68c1cd84a7de66db858dce16915a",
-            "1b7db8a8bc2363de4ac5cb8f122c56ee5b5b4f111f5e17447f690c11",
-            "f2a14874c9e8d543c7efaa68c132453d103d92dd4a5b3f0f3265172f",
-            "90f9981c0c61973788db48ee084dbeaa7d3cfd7fd6bb4a606d1168e9",
-            "dcf42ce9e29cee9baa0da38b35cb5a7c700484dc67619a082d52f8da",
-            "a31272277d55efa4f256be523bceab574dc4cb38e57a9f7c33fce0bb",
-            "e53ffda6ca32a2533f610ae6aa3cb7cda71d6c401995c318d31049a2",
-            "0c8405dba253a965d86bf769dce8b6cb04ea297478983c5d9f7ad1d3",
-            "262f4916b4df68372f55872a617bb4c2d07709d2ff1f4182624be254",
-            "961b25b540ead0ba3a93d4d46a3d007a4d63248138b7df469903d9f6",
-            "15810205fb13814c9b630d6cc9642176a2ffd58e8f520badc9dc0d57",
-            "828a1b767abfd26c9a14dba09fb6ff86f2d8b78d1e9aaf2297bab20f",
-            "d39acfcf8090397eb86d2b301a391a25ce75cf0e4e8b13132c3eabfe",
-            "cb5f68158fe7fd783eda75f6d9f7185d5b26bbe15d9d963988c2db08",
-            "cbfe5b213cf1f6a9cdb2e3ff5169eef952492da5ba29bfba12ed7930",
-            "1ea596c6d3c3c5feaeb96995a028d4c4b41ad88b27b1ec0454ed9121",
-            "33463ad82cd88e68cd205789c2c8d24e804f36db3abd24e5bc2528e8",
-            "8dcf2e86ab0f70de59915f1125e61b1db6ca9498c75632d1d3ae1069",
-            "54026d5812074277c70b0815aa1936514c73ba9c437e0c86c41f133a",
-            "d79605d1b35194619b89f45dcd4913b7560f59337aad57e341d368c7",
-            "30704e69118e0846d4b8618207a142841535cd6d51b91e735b77ee4f",
-            "63de102daeaea3fe9f57db0f16a18ba80e3a11c57693112202c025b6",
-            "7dbeb019208b297e9a5d6896a38c7f1925bc5ecc0c165e8a8cee3a05",
-            "8615216946e1582cdb32354af32b306fa75e2043fa084a34585898b7",
-            "f21a7cfb7765339b992847d4a6f28c379f69369e3cbb1d89fc795b14",
-            "3987b4549def457f3f8290c6018afd7eac1eccc9f2f83fecbe0b52fa",
-            "d348654719f93130db306deede552c6b6e4adc0745d154338524c6e6",
-            "d4d641731ddd69d5491f8ac573953a602ef339e3fa80b255a833d7a4",
-            "a5d1fa32e226638950486eb8883453279b896cddd4e11c799f0ad5c9",
-            "4de294d177e72f0b9361440875d9d4b42bb54a117f69febb0c2894ba",
-            "02a2ce3d30e0c8b4184eb4acb43074842a787ddc63378e0c44e4fee1",
-            "b10778beb64ae572bedbc32eb19b48eb1b4fe88a6c39f6b4e95e2365",
-            "908644de89fb0dbe5ec70478e3571e65a16cb4202ca4b57f9c06f561",
-            "a122376216ad57cc3ca8ad12a75c98186d6fca157886e37854766649",
-            "18a0333b092cc9fd09140226acaa4588b4dcc54b327d1a47a325a8bf",
-            "efc4909611554e44e7021c6c56bdd28b8907655a4ab6bc9e60b753f4",
-            "bbd09e4d0c32ba4f60d86b279d114f85d1563e51624d988f5183fe76"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "NFrogTs",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nfrogts.png",
-          "collectionName": "NFrogTs",
-          "policies": [
-            "9344885c9f6c224a5e321029b2acff22fdbd7e5c045a2f6a1a0d67e3"
-          ]
-        },
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelic_frogs.png",
-          "collectionName": "Cryptodelic-Frogs",
-          "policies": [
-            "56b98f0c6ffb179b503dc4d264b7d8a34aa3fb3781fabeffae0b0fd1"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Warriors",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_warriors.jpg",
-          "collectionName": "Cardano Warriors",
-          "policies": [
-            "8f80ebfaf62a8c33ae2adf047572604c74db8bc1daba2b43f9a65635"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "SushiBytes",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sushi_bytes.jpg",
-          "collectionName": "SushiBytes",
-          "policies": [
-            "cd4f09ef0a8f9a3557903d2c9a45b2f6198f1267c2031bc9228ed74a"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Cardano Ghosts",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_ghosts.jpg",
-          "collectionName": "Cardano Ghosts",
-          "policies": [
-            "04fa93174fdd34d841a1db5c2faa72452c7dc729a53f88d869d77500"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Heads of Cards",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/head_of_cards.jpg",
-          "collectionName": "Heads of Cards",
-          "policies": [
-            "01ef3d1ce227d3eaf1403fe9a3c773d0aef7cefce119913ee9d4ef3b"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "ICS Studio Paintshop",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/ics_rocket.jpg",
-          "collectionName": "ICS Studio Paintshop",
-          "policies": [
-            "dee1b42993f084d15dc7dc5d55cd81fae5ccc386ab75408747d75e3a"
-          ]
-        }
-      ]
-    },
-    {
-      "project": "Crypto Doggies",
-      "collections": [
-        {
-          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodoggies.jpg",
-          "collectionName": "Crypto Doggies",
-          "policies": [
-            "7724da6519bbdda506e4d8acce11e01e01019726ddf017418f9c958a"
-          ]
-        }
-      ]
-    }
-  ]
+  {
+    "project": "Cardano Bits",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_bits.jpeg",
+        "collectionName": "Cardano Bits",
+        "policies": [
+          "1131301ad4b3cb7deaddbc8f03f77189082a5738c0167e1772233097"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardnio",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardino.jpeg",
+        "collectionName": "Cardnio",
+        "policies": [
+          "ddbec62c21a859bb2b556862b2182a4e55ad505bc31a2339a7d085fe"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoMonsters",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_monsters.jpeg",
+        "collectionName": "CardanoMonsters",
+        "policies": [
+          "2c7caf462418609495ed78652115430875a24e18cc8a240b00bc09b9"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Roach",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/roach.png",
+        "collectionName": "Roach",
+        "policies": [
+          "aec4aea74cbef4bab68839f224f2b6e208e06992cca39c33a698e13a",
+          "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
+          "beca5a986f123ea0e30addc7f931ff06cd628696386e1f432d1f69ef",
+          "9442ad535e93250f20775a1993489cbf1b681d8c9f19c373e962a26a",
+          "adfb2cd5592a2a3030145ae6c395648ed47f18a9d6a117a24ee2578d"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Creepy Cardano",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_cardano.jpeg",
+        "collectionName": "Creepy Cardano",
+        "policies": [
+          "ca3faeb4d8443a4ac18c58c66324609364b2885690fa71c78944ac5c",
+          "fa26e0df7c8dd4bebdcb366a376ec800cebe6962316a261a66e7a268",
+          "0ba0b3d7c4c43d6bae21c170cf184a19833335c4cbe411652b88bac7",
+          "27ce16cbb88719be9721efdd4a97a53ac882e2c7e3b5dafd20442f40",
+          "ee260f1030016edcdc93cfc3d956d215666849b84fc91dc0ed1a256a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "VEGAS ADA Pool",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/vegas_ada_pool.jpeg",
+        "collectionName": "VEGAS ADA Pool",
+        "policies": [
+          "1622a0165ab7eb03df32c0368450f2b3425cdee919c1870c4f05e7ea"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Lucky Neko",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
+        "collectionName": "Lucky Neko",
+        "policies": [
+          "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Berries",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/berry.jpeg",
+        "collectionName": "Berries",
+        "policies": [
+          "b863bc7369f46136ac1048adb2fa7dae3af944c3bbb2be2f216a8d4f"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Chadi Nassar - Call Me By Your Name",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cmbyn.jpeg",
+        "collectionName": "Chadi Nassar - Call Me By Your Name",
+        "policies": [
+          "c7106c654279e6053e950449e12df8df35d5e840ba5ca8765dc1764b",
+          "bb3dd4ed8d55f9c4aaf2b10b38ce77fb56d99098e3b5f17b85b85477",
+          "a025d91dca7804ae13c5231c4c44a6cfa16aa98634e9e0e874380797",
+          "bcac5d9730f1d4cb9cc92f8d9304870213e5875780f484747802fcb7",
+          "63f14997b7e45a2b9759ba033271b66ccaac5ab5e7381dde9d864cc7"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Pating RA",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/pating_ra.jpeg",
+        "collectionName": "Pating RA",
+        "policies": [
+          "918d8b4ae732fd29e08343f75bf7b90c354407488c22327415b2a3d9",
+          "f166848f8ad1839a88cc6b15634cc991900f105b91ab3c5ac3a82217",
+          "c39d636291eaf863642ef7cc6a860fba09aa9864efaac814473d1b6d",
+          "db95e4dffcc8a086a315fd7278d0b7b0b990a06e018080bbf1636421"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "BubbleGoblin",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bubble_goblin.jpeg",
+        "collectionName": "BubbleGoblin",
+        "policies": [
+          "f777159f6ffbc799906aefbe87b790bc1fbd2740200542437dbbbeb4",
+          "139abfce3774e66a66da1d7e9918903cb5e61a6c9ad60072090f09c4",
+          "4ad09f73bf13f17c1c0a30976dda9db8b3996fddee67ab9cb63d359e",
+          "9173aa07f36352e3c39557cc6791608869e34fa912a7d6523d6174d6",
+          "da041e3a0776e42e37fcd689ca8d163c6cc79baf4b3d00ae9428decb",
+          "3b78a85bba1e59203ea5ed0abb60cc18b4f2a81b3515379eb8520103",
+          "49edb1974d1ccc849d12a8eaa3da8b7cc495bea3d48bfd77f1b2f646",
+          "0d0da1536455d9f83bfdd41e298a63efd94cda3e087ca1ef436e3183",
+          "0375a4fb8b004404daac537d4ed2600755e0373b09d1ec821758a02d",
+          "7f98148b9a20ed6da4e013b4a4c6126e61c436b405bbdb988bf034ab",
+          "374053e59f00bd1a5301bb7a8a6a5a91da99cbc7a0cd29df9582a31a",
+          "88b0e21c54f93bc8ddd723a1fe87573008ccaff490e51e9485d06d02",
+          "058b122aec338e37cdaca12caf079cac8951ad15d514de5625667e36",
+          "06b8b78c68c6a3a49168b9c0f0f4c3c9189865e0ec11681ad32d904e",
+          "fa51d06ebd5c861f5857dca8c3c7c95a0f6b1657209d727cbb25818f",
+          "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
+          "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoCubes",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_cubes.jpeg",
+        "collectionName": "CardanoCubes",
+        "policies": [
+          "324f316d40e0c730d7c836daf3c0cb825376a5719d3c5a88543db4ff"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Charles Emotions",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/charles_emotions.gif",
+        "collectionName": "Charles Emotions",
+        "policies": [
+          "46ad4d965d640fc9865d5bd64eae11dd13cc05ff682c879564961919"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Kidz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
+        "collectionName": "Cardano Kidz",
+        "policies": [
+          "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
+          "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1",
+          "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b",
+          "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
+          "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa",
+          "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d",
+          "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9",
+          "4277af377ea2832f66d907636590bcbe822e4b009d254d28d84bd7cb",
+          "b22cdb567a859e243053692802985d1585f4d5c5bcd79be732cff6cc"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Space Budz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/spacebudz.jpeg",
+        "collectionName": "Space Budz",
+        "policies": [
+          "d5e6bf0500378d4f0da4e8dde6becec7621cd8cbf5cbb9b87013d4cc"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Crypto Mayor",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/crypto_mayor.jpeg",
+        "collectionName": "Crypto Mayor",
+        "policies": [
+          "5e889bcb83b884bb6d768cfc483845cd6ccee79c2b5a4a15dae7ff47"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Finger Monsters",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/finger_monsters.webp",
+        "collectionName": "Finger Monsters",
+        "policies": [
+          "6c96047dc3e440f63131848056ff2175f316eb1ae807f7882c7885f8",
+          "c48399365969a5b3e08640d41bdd6581ecc814ff6cd5bb081556ffb1",
+          "4d4ff7563447720d50a46ac83f8236430db79dc9da75a7cf91852e6a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Punkster Art",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmTGJj9QDabTjvBbzTMGdPZewBUyHThpShySUtgg7oVcSv",
+        "collectionName": "Punkster Art",
+        "policies": [
+          "84c0acb101c14416ad92859c429058871e201804468d5f353be31d71"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Adafolio",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmW5BgShc993rUvdZKhNKJJr4enWRTxquUwquV23p8dBEk",
+        "collectionName": "AdaCards",
+        "policies": [
+          "923c31f3790f6a6c858971d6b1241390ed0e0dab5965652782ab12dc"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "The Cryptoverse",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoverse.png",
+        "collectionName": "The Cryptoverse",
+        "policies": [
+          "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cryptoglyphics",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoglyphics.png",
+        "collectionName": "Cryptoglyphics",
+        "policies": [
+          "cf82723073a0bfa585e53c85474327684e56136614653b65bfb2a844",
+          "65c5a4347c572b64c876e8c4cbede5e157f5ca5fde1a9bfae52f436d"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "aeoniumsky",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/aeoniumsky.gif",
+        "collectionName": "aeoniumsky",
+        "policies": [
+          "4e398bb649f51a5622ffcce9658d219c0ecf50a58dcd03ec1884c3c3"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CRYPTODELICS",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelics.gif",
+        "collectionName": "CRYPTODELICS",
+        "policies": [
+          "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CARDANO DEMON",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_demon.gif",
+        "collectionName": "CARDANO DEMON",
+        "policies": [
+          "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "AmoraNFT",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/amora.jpeg",
+        "collectionName": "AmoraNFT",
+        "policies": [
+          "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Mr. Intangble",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/mr_intangble.png",
+        "collectionName": "Mr. Intangble",
+        "policies": [
+          "f8aaadf6a25cddb0fc1a295fe5369af97a67b5517a497b058980d0a8",
+          "2e0262033407d8a5f8485e8d5149035dbc0547a5bb0c1a60d6d97482",
+          "8db29c12bd8d5e1463a7ba36a2e2d4bc177b167164c2cb8c0be61c7e"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Professor Cardano",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/prof_cardano.jpeg",
+        "collectionName": "Professor Cardano",
+        "policies": [
+          "e85a0209a5d4dd2f4bc12783f65742f1994b16e506eef8b7296fc778",
+          "c2fe5590c582d1c53dbd7dd72b702b78407a67dae9a2046d577fa4c3",
+          "732e6d63d1081962ffb39152917e550ac1a7a8aad419786babfa4996",
+          "82666abf5105ac43a4171d9b95ca83a25556b529f025a1b5cf61cf32",
+          "42025be91489495e239b5ef7547f0635229b9a935878b03d11980e0a",
+          "96952826c85307f8d8df795f9d2f4fcceeadb46705bd9e0656232db8",
+          "1420af39eb2a6df01ecf542e70bf103102f00b433109f71ff067ebf2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardanoverse",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZErBudKGXX5Jc4AFVuG1k56aSrzTTc33suVmBX1MNVkA",
+        "collectionName": "Cardanoverse",
+        "policies": [
+          "eb9a04fdf80abfb835562fc3aeb9a234e6f795678daf3566dc1acf27",
+          "89f04baaff486a7a362991c4dff5af6d1b8ab748d0dc404b79e3a94f",
+          "f28dc98c31d77af5a9abb79a06c65a47085b5c1579660bc5ab907de0",
+          "3cf9fe951b4e666fd047a7bc31cce29b4df790dfcc56ca6390836296"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Street Art CNFTs",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/street_art_cnfts.jpeg",
+        "collectionName": "Street Art CNFTs",
+        "policies": [
+          "4b21109cf578a4739c1f806aba0ef71b9d6e2736743c5510698462e1"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "RetroNFTs",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
+        "collectionName": "RetroNFTs - The Doomsday",
+        "policies": [
+          "8e83eb63ab3014664ee5348c1607b587198a3a8134dc61e6a3beac45"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/retro_nfts.jpeg",
+        "collectionName": "RetroNFTs - TestToken",
+        "policies": [
+          "5ba29189b17c0f40facd2ca7dfcb33800a76c2421bea114da4aaa4ed"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "ADABirds",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZTc8BBX9oEiatXMf8BtaxXLxBBhWm1VcWZDefLxKWtv6",
+        "collectionName": "ADABirds SET #000",
+        "policies": [
+          "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic01.jpeg",
+        "collectionName": "ADABirds SET #IC01",
+        "policies": [
+          "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic02.jpg",
+        "collectionName": "ADABirds SET #IC02",
+        "policies": [
+          "7d4f432d13eecbc6ff83477d31e67ed4fb8cad3251b13f46b5d71362"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "MAD in Art",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/mad_in_art.jpeg",
+        "collectionName": "MAD in Art",
+        "policies": [
+          "2fce3cf60f879096887ea57456696690e111536110eb3eb3c1c7e3eb",
+          "8301b4e380a83db15615b484f564304832b3cd5f82cb8cbd5795e88e",
+          "2fa7bb4e87a7f2c02ce9c0694260a6f5b002a8214a5e3fa40c6cd9fd",
+          "87675e1c0ca19c83c6d709cf6af96438f8a19a6605c776e5ba409c45",
+          "6b8a9aac49fe6809e9a98053dc2e00b271c88f8ffddf3321925df703",
+          "a2d79509e04502b4b792f0196dca9f269a0b60d612672f0502da7c30"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Blizzeffect",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmewqLnSPRHrk4yNQYja3yxkQrVyExNeytiogXC9SDDwo5",
+        "collectionName": "Blizzeffect Creatures",
+        "policies": [
+          "9900680bccc9955c81c40afa1e562c9d5cbd31d1c80e1aff68c2f0db",
+          "779f3cc1ef30bbfa12a8a92788adc8adeefecaed502ad9e62045d32a",
+          "44efb54513ff8441fdff2a2d7ca9ebb4caef7668fa7881cbe9307a44",
+          "ddddd3d7af195bba6f6df280156fdbc91735eae8981e41fd911b9a3b"
+        ]
+      },
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYbEbVjpJ7GgeGWUB46pWqDe7tvHR8ueKmFWg9sN9oBd7",
+        "collectionName": "Blizzeffect",
+        "policies": [
+          "9e64077906467d4a62ce032829bddc334292798e706e56506f84e758",
+          "2a68426af4d0838fefde9621de2bd3efc939579dec77d61df6139aca",
+          "86b4334851956d2f8400bab0122b13ecd4576be7546400c639999bc2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Bricksfun",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/Qmdpwp1o2MSzFzazqWfLgcunSTMuvRqPzRMrLdm8PkKvhX",
+        "collectionName": "Bricks-Fun",
+        "policies": [
+          "33f743a78443b6c5aa69037311fbe765e3f0a4279f61e3f1d8286fad",
+          "7103d9ea701e4f8ccad9babe53e879c8760494bb8c27fb988a59d650"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Tonoy",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/tonoy_guitar.jpeg",
+        "collectionName": "Tonoy Guitar",
+        "policies": [
+          "eb9afab12c81b161c3261449e93ae07d8fa88b70f4c1122f6c34c833"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "rwpNFT",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/rwpnft.png",
+        "collectionName": "rwpNFT",
+        "policies": [
+          "1d67267f255d6f25ab88c45e0fd86378f1d4cf959b49b857bcb1d1fc",
+          "7a50ae683d32bdb5f34fcc00c91b4775d48fa4097ae95847109be56c",
+          "c064f171384709b50a89e7d8aac625846b9ab759bc746b8bb91c9ae2",
+          "8ca9d7f3480c2a0e8e68c41fa8c0326de768e6160562eea2539a0890",
+          "92f85349ff449573a47ca9fde63c89bfe5a9a73b21e563477c959065",
+          "a4b7e719dc3dae697178835b66982d6c663c71f9f1106bb2360ea970",
+          "8fea90d673cbdd5b3da3309fb7cf1dcbb1c485ba6a7e5148468351a2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Countries",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_countries.jpeg",
+        "collectionName": "Cardano Countries",
+        "policies": [
+          "5d58881d98f367befbce25ff966ee22b4de8f099da0e7f71c089e542"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Yasenchariyski",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yasenchariyski.jpeg",
+        "collectionName": "Yasenchariyski",
+        "policies": [
+          "270235444667eaa14939b0b9d0c4cb16d1304fe1e401adb57a8b33d0"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoGang",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gang.jpeg",
+        "collectionName": "CardanoGang",
+        "policies": [
+          "7c921852e38f220c90de1bf70800918ee789284c856548a5e5b8cc5f",
+          "e7ccf3b8dcfe743eb77bc92dbeba4cc26c05b9e2231915f7f773dca9",
+          "82d4481e28a5ce94dd7c55d42b1cfcc1e5443e65f07065f09be5c756",
+          "97f9a18b6bdc02837ec8b0957b3f29eb527bb3fc82346d37fa8affe5",
+          "de8bf15db0d5034a56523625edc1f8151f4a3b1003792e23adc92097",
+          "70082db67d9af998b5d6469728a245f0b353beec279535b364bfb826",
+          "57132dcd3b42f816421c1fd97ba3a7b6b203fde5bc82493d0d40f4f6",
+          "ef2675eaba142e51a328d0961182ba87bf34b065edcec3aa0cc8b2af",
+          "c3e9375be5c04b8d737d8f427868a43c463284f02e45cbeaa259e81f",
+          "a1f244ca5d23920d64a05a40f1babca08a8d958a4f9fa6fa32f45b13",
+          "d81327be18f924ee4ef5889dee6b12d0900425a75da9e0358680d302",
+          "cda129dff919ac57d1356905419d64fb27b700a5646428ea5d521530",
+          "0f6b324f60b34443c378bf440cf515dba66679d0d9b9883642704964"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "StigmaNFT",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/stigma_nft.jpeg",
+        "collectionName": "StigmaNFT",
+        "policies": [
+          "3f564f034a9ff9080d4988956a1a25089910c88fc2cb3ab17cfd970e"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoJimbo",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_jimbo.jpeg",
+        "collectionName": "CardanoJimbo",
+        "policies": [
+          "46705d4026746babbc3c42ab999f15f306e846a8b13cf7a108e726cc"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "BeerSommelier",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/beer_sommelier.jpeg",
+        "collectionName": "BeerSommelier",
+        "policies": [
+          "498e2baee0ea6603db7faefa4309567273079c1f559621e19480c1a7"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Flow For India",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flow_for_india.png",
+        "collectionName": "Flow For India",
+        "policies": [
+          "949dbdd63f3157100e3b98dffb20259f5053bcddb1ce6fd253c6da85"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Robin",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_robin.jpeg",
+        "collectionName": "Cardano Robin",
+        "policies": [
+          "a5b55966878d32516a33350ce1f1b46246cb92b9c9c815f0d97b02ca",
+          "67e63c46cc17a30f39b330c70cc6d302edb5f137cee489911755f6fb",
+          "b557e1ab85be9e7efe92375373431ea784c725b156534f8054c698b2",
+          "6455a535c11a680001d31b88ff3f0ce6a74480880d08d1249cd82904"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Anim8bits",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/116137850-abdd9500-a706-11eb-8383-0b78c6f9131b.gif",
+        "collectionName": "Anim8bits",
+        "policies": [
+          "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Deveerei",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/116137898-bbf57480-a706-11eb-981d-98e3ea2adf5a.gif",
+        "collectionName": "Deveerei",
+        "policies": [
+          "84833edd532678d86bd0cc20d64b78a31fea460d9e5e862d99db14bd",
+          "0d20e28fc29ec1c54e562d276c77d72185e19618ee68d4a8f5775643",
+          "a147c2d6821738c0d7b964efddcbd1c58eee6fcabc595bdf3dc9f063",
+          "c1e7dce06ef37fccb60bd16db42330e21da1ce6e9b66295b8ae9a534",
+          "e3920a05bf0ee63f931d12d0e0189c20d624619b933454ab309c1cbd",
+          "8302cf1365b26cdc34bb4cca475fb34bd77bd81a54728f7a3f414413"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Jeseemei",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/116694420-db83ea00-a9f1-11eb-960b-0e7d4536048e.gif",
+        "collectionName": "Jeseemei",
+        "policies": [
+          "9a6aebf21412b0f030923283e87f4fa740019b2284f9c429beeed5b2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Voodz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_voodz.jpeg",
+        "collectionName": "Cardano Voodz",
+        "policies": [
+          "592c3cb9c56148a8d7a2c8616aa018b2cd1d98c4f9fef050aba939f2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Low Poly Dragons",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/low_poly_dragons.jpeg",
+        "collectionName": "Low Poly Dragons",
+        "policies": [
+          "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1",
+          "0d22285277beb69d51608048e2fe459ea5b28033a4a257d54ad4eee3v"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Ave Mariya Collection",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/avei_mariya_art.jpeg",
+        "collectionName": "Ave Mariya Collection",
+        "policies": [
+          "08dc1cfaf8213a15855ce732c64118d16534889f65c92abb3c3b243f"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "DM Photography Shanghai",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/dm_photography_shanghai.jpeg",
+        "collectionName": "DM Photography Shanghai",
+        "policies": [
+          "7cd75f62734b33734d18bbb3ea55a30b4912cc5642058f97a5f3eef0"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Takeover",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_takeover.jpeg",
+        "collectionName": "Cardano Takeover",
+        "policies": [
+          "63787c07d269d8243efeb78cfcf9d4eaba4e1f231bf373c46d54cffd",
+          "71ac1e8c7661a254b0386c8cd0c46b0ab9a2137d98c43de894abfaf4",
+          "b19bfc777c769a146bba72236c2938ca04f5718bb336fc2e7ca46a53",
+          "a77e3f2a1d4c2ca964048e6fe5a5a67883ee5b692909d3f9999335a6",
+          "99dc9b523c59e85b39efd1cd2ab365fc58517b2114e2d2a5320a3c95"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CreepyBallz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/creepy_ballz.jpeg",
+        "collectionName": "CreepyBallz",
+        "policies": [
+          "00255c245861e1e15ef8aced64d44dd20682ee7c2bb42b7941e199dd"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "TYLRwithspaces",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/whitespaces.jpeg",
+        "collectionName": "TYLRwithspaces",
+        "policies": [
+          "4027768aefcdef653acbd759b2420bd24b0b01881b52cd888d19fc1b"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Gods",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_gods.jpeg",
+        "collectionName": "Cardano Gods",
+        "policies": [
+          "148b29dce34d2d9f6baf3b0aa53db4ee64976a2f82c91175a0d3f5c4"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Colored Coins",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/colored_coins.jpeg",
+        "collectionName": "Colored Coins",
+        "policies": [
+          "9d3e9e2243d4310e034fd775febc9ed5a03beded6b6b312d9954bed0"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Alpha",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/alpha.jpeg",
+        "collectionName": "Alpha",
+        "policies": [
+          "f093395d87ab54d2c01118af0b3e830481d25a2c8026466ae34842a2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Julian Lyle",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/julian_lyle.jpeg",
+        "collectionName": "Julian Lyle's Collection 001",
+        "policies": [
+          "55dd4519ca2ce4071ba005eb209506d2140cccba49cdc3419dda695c"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "NFT-Craze",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nft_craze.jpg",
+        "collectionName": "NFT-Craze",
+        "policies": [
+          "fc9ca515b755acbf3f8ee4f75822f2a4632c6361b6c14f76deb330b0"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoSpace",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_space.png",
+        "collectionName": "CardanoSpace",
+        "policies": [
+          "e3ac0dd93edbe6bafec38fb120cf7c3e223686a97261008c2bfe0d6d"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CryptoKnitties",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoknitties.png",
+        "collectionName": "CryptoKnitties",
+        "policies": [
+          "9bee44c5c494dee38622e6da0b3b312820f9f75dd6cc256c769db788"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "NFTUpdate.io",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmYNbbN83duNzfZjprXsd7yLa7hjDigQxmDzCcf7gmzppS",
+        "collectionName": "NFTUpdate.io",
+        "policies": [
+          "920102f4353f24c817e38b45f5282b4d7ccf9f64f445cc852e01c475",
+          "883b7a579dd41444c66a6629e5841e1e714e812e51ab01537edd2d5b",
+          "ca9c8dfd333240b3c5124c6ed6c46cac2c26c404861d8f4a34200970",
+          "1c0dea6919c51a3cdf955a9be86622463b251bca92f7481adde89b05",
+          "2392d836499338272af618871b6f3db4a1fb1c575abef4a56c34bb3c",
+          "c79b6baa1aa54b0d55352f6fac73d2588d5efba121bc5388a4c42ece",
+          "68fb69abc121dfb77be74e5d589876ea7fa271a70a905a4bbc580a60",
+          "c5b50ef2453bdd867db094872237ef95cab1d4f2861867fe46a7d124"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Chaotic Mathematics",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/chaotic_mathematics.jpeg",
+        "collectionName": "Chaotic Mathematics",
+        "policies": [
+          "d5f4a1fee4a378fa0496ea0f2bcb09f122a11cd632925764eee3a191",
+          "d3805771f8860e718df91b530b3723b7c821dc40c128629539859603",
+          "339fa5c6ec49c944ebb8df6180c740c071f0cf381a9095cf57cec219"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Swankpie",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/swankpie.jpeg",
+        "collectionName": "Swankpie",
+        "policies": [
+          "4add2b78900ca6701c936c232c5aeebd6a9efb12e4c02b3af424121f",
+          "1d59cbea114574a2d21cb83f655a14b07b218135a8848d29346e2237",
+          "77863f1d0ca4091cdb7ca3708a1a31bbcb28b156d3411b8fe35da1b9",
+          "be9d1bcecf53181453a3359c28cba21006b444ee93669405c1f63213",
+          "40c8aecd0a5988ef99ae6555a0cf2f5678a8c5851fd84a9b06e2babc",
+          "ceb08c376266a74de2020e9e8fad1cd0e38e0c29eb66be3711002ec5",
+          "da1f67869a526f8886577627616ca5aa270c58266136f111e2425abd",
+          "936e0061c6118dfc92406e5c7ff10d8cc3527a56d0a87b8f70e2365a",
+          "4b6c40400fdd096519b0d776f3ee04c46b63c8a20165e8d80f413760",
+          "a7d28ea376d3055cc1c59d0d34876ea52aa9b5d11cd75f2b0223567a",
+          "9d5a3758e9051875ab98a4bd1b67c9d8b7ded4529715d8a7197e13bf",
+          "8bd876119ed2152848cc364db9fab76c5ed8d98fdf53c2157ffd4092",
+          "7b5fd95985e08b72a5c37b9d3c7d863bb8a6fed82ef4741594be357d",
+          "7c306b00720b3a941ede9d6e1c469ec678cea1d1be8f70ff146dd6c8",
+          "a0a0d086d4e778a24305278b82a4faddb86d4279ac11770e87408ebb",
+          "f3281d1ae13c980e914a1f5e290e489c69256f4c1dc943ff1e545dba",
+          "42bae9e0802e4cbf3d9c9faa0f7c5ebd78d732f2d6be3921b034bf05",
+          "e5302f735bb368e2ffc3fac7f7067497062680581e817d33cf2393d5",
+          "bd7e8c0aeddbf768ff40a4883a05f51d3a64805b47fe44ad0ff9b968",
+          "f171e1823137138fe74a407cad6115083ba68cdbca70c344dd59ebc0",
+          "11df31a5d7836dc75561f0bb205deabe2ec58ccd93d2a12147d8d91f",
+          "1a01a612686fef903d7b07173435e8354523747a9e2494f5b2e7785e",
+          "a185203b9f898d8b068245dafbc15173f120bcb0759c24a6578c246f",
+          "469239b9c48cf9ae11300136563bb2d174eefd1f6a3f764d6b5312bb",
+          "6b49e3657b6686fe0ff69af5dd6b1deb2e52e10810478383268593fe",
+          "4fd307695d244431ca93599be34d9aea403f24cf30f2eadcd7a178e2",
+          "aef12ef6ba729fbabfdf48ff4200500e205166d101e4336eb58f524f"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "FLawwed1",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flawwed1.jpeg",
+        "collectionName": "FLawwed1",
+        "policies": [
+          "dc8bfe53d4e3e29c143322edffc0ed08169b8745111cf463b7b539e0",
+          "73407593ab75e61e78f7d4b32a90c208d2549081790ff14ce51d6eb9"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "BobaBits",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/bobabits.jpeg",
+        "collectionName": "BobaBits",
+        "policies": [
+          "b19021b4993e4a282dd0e0d9e74d7608cd6c59fb63827a0838f4155f",
+          "b167b8b3fcf772b4cfc5e976885a49092a7e69d64df7c3b24efe1e11",
+          "2e510926015ad921cd0d664a6cceb3d74712b2fe71f7a485cf2005fe",
+          "0ec2e7234993ad38ae744966856a793052ec9e62d20228f4394c1d01",
+          "2c706568da7a87a6a7ce4600f3bad000234ebb846a45f3d868e7419a",
+          "7ffb5397e554b305ce5adf9b67e1e534df82d46b57c064db458c4fbe",
+          "92aefff208ececf69a316089330b3535581c6a2db3812bad722642c2"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "OutdoorArtz",
+    "collections": [
+      {
+        "logoUrl": "https://gist.githubusercontent.com/kangtinglee/045c5c1d4d3b055fd99cfd0c175950dd/raw/6349af70cc5240d9e5f9b3ed3ffa4e0c51bfb99a/OutdoorArtzCoin.png",
+        "collectionName": "OutdoorArtz",
+        "policies": [
+          "7ee6ea00ff2db92efc3c38054405def43539f97522c736fe4613dc87"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CORN 'n FRIENDS",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/corn_n_friends.jpeg",
+        "collectionName": "CORN 'n FRIENDS",
+        "policies": [
+          "1018656a869c94433567ee9f6190a467605f9f7b6ded220031d9febc"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Clay Mates",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/clay_mates.jpeg",
+        "collectionName": "Clay Mates",
+        "policies": [
+          "6e9ddb1bfafae89c4b026a4d3c1721bf6948027fea9ec03658f0c72c",
+          "0fe8919327cead55e63fcccb79dc770befafce429295a7f8784177a9",
+          "f183298f91f7d0d3799406bea09debac91f2f784e28c370a5dc29e73",
+          "d0c26f5a743bd2bc6d8c32df6e26c439267b1f643ff0cf86e73bc9a0",
+          "25eb164cca25398c0c3ef942a4d78b82ad1cd5efa1bbdd95b40fc5a4",
+          "7ec6005e633510073c76c08632de1fcaaeba040e190bba9ef2c16503",
+          "c410abae1c397ca66bfe0571ef940d13811c6afb1d5775ee1f152476",
+          "c8e5bbe82b0431ff26c3b8480cfafe7569fd2a20128b16d05694276f",
+          "10666769518b83be429590140251049db2d40275732394122e1cce74",
+          "158e03f9baee6062ab93f6e1d5fd6fa0e5f8617da87b1f24a2c5ddd7"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Backwards Geometry",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/backwards_geometry.jpg",
+        "collectionName": "Backwards Geometry",
+        "policies": [
+          "9c9cc19ada98d50a783432a073239fe6d69c5bb695f1972b5d07c3fb"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "NFTea",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nftea.jpg",
+        "collectionName": "NFTea",
+        "policies": [
+          "ddbad80c6f49194b63d711e06a86492963858268fb23f8382b79d2a1"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "JES-Art",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/jes-art.png",
+        "collectionName": "JES-Art",
+        "policies": [
+          "1fbe166f8b6a129161a61b6d3ec0c1ad757d7ea0057f6326f149cf7a",
+          "268cfd94e7d2a8cd59590aa4283dfd790b08a875d5b41b022d4231be",
+          "329ec763ef308f59986f9e4023e252de1d00dd2104928170cf6f7a7b",
+          "ab00cdefc5201396507f7fd5b06dd3b1d239c75323f39f25126d9475",
+          "1dfd91bd4240deeae4490eac7ee39e08445ec0488a12609731adbc4c",
+          "e413348fe8316bc7f9081927debeaaa948dc002a9dc52e46ac7a378d",
+          "2aa7bef36be005fb9985ca2852b14afa66cfc37756a4b0b842e9bde1",
+          "8f753f96340b75fa4fcff4e5e862e44a079f461c38a24b38bdb6e731",
+          "0df827a31a5fdce0a367f1801ad8c3488e5c7e0a071050ca3c597ed4",
+          "59c29ca2b2931f0386cb73eccb70d52fcef91d8a42d7a3903839d691",
+          "e4f75011b1fe204f8bcbaf4b21946ef1b41e145e9f6be0c7631185b0",
+          "12fe553fa7fa24f99c0c8e2bf3a1f1197e8b3d44d105eb92538ce498"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Visions",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions.jpeg",
+        "collectionName": "Visions",
+        "policies": [
+          "2240892b3076cdd32dd22ab00c074cac5471d7612f690e4c1b64b802",
+          "7b9e74668dad56367f9314485a402c726d3bb8561834fdf253c65c4b"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/visions_architectonic_misbehavior.jpeg",
+        "collectionName": "Architectonic Misbehavior",
+        "policies": [
+          "16c3f2aa310e8d6eb89ebbe454fcb8b5a5231af4f59b24f08d7fc501"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Yummi Universe",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yummi_universe.png",
+        "collectionName": "Yummi Universe",
+        "policies": [
+          "7688e78e7036eef1536b45d7b04dcce29a3cc1fb074696228326da62",
+          "e3a51cc7a08cb1f6af0b9aa0488b848117e8459d179d584610d4abed",
+          "594b9e027099a4ce436ca12f8085c33393aa4c35a7e4327da1edc69c",
+          "1ecb03ff7dc752dba4b4fd1e9c50618b9706d73bb9e1e9f1fd7bc1f6",
+          "396ce6edbfdb166c9c7a502b7ec1f68a74e6bd48975b4f63af668887",
+          "bb25b10f871b2bce1bcb3683eb08e31ccb5434bf52b608a6fc9ebcdd",
+          "c0bd2c897dd95f2ef7b097ac9cdca49295455282ae63a794c6498f54",
+          "1f7f4f354893627bea7058d305fc8b8b2e58483f0edbb11e78f5cca5",
+          "4c1749abf4b74cdf2ee617be2cd976b92d2529889ba885e5d0c648a5",
+          "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba",
+          "e3222eeec84650fee7cbf7cf852a7a441f2f2d1ff063cd77605541ab",
+          "4b922d25832e5113049dc44a57a94c146a5073f3184053974bccad04",
+          "333427e94971f530653bb945f34f914252ad570c0b84dfd8c8e8c97b"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "charlesgitnick",
+    "collections": [
+      {
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmaZAaAmRbw3yzQUTSzooJJ8E3uS7Erm16s9fN8ueCuWwB",
+        "collectionName": "charlesgitnick",
+        "policies": [
+          "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
+          "df142ed23ec3d8f636d1b62e6eedf96141abec51ab18363d0bf6316d",
+          "a1d60e8336aaad680d7e5485a43dda05cab6277f9ad205a76fc76e42"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Fernando Torelli",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/fernandotorelli.jpg",
+        "collectionName": "Fernando Torelli",
+        "policies": [
+          "56d65af080d23193e98368f360c38ccad21ee9420e4efe9352b40f0e"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Comics",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_comics.jpg",
+        "collectionName": "Cardano Comics",
+        "policies": [
+          "204f2989b16e075f01c8360e3d085e18194b7e978994a732a8638522"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "GlitchCreation",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitch_creation.png",
+        "collectionName": "GlitchCreation",
+        "policies": [
+          "4a3058f4eb1097e09bc42dfb474d3d47e8b5b5a3dde6bfbf6d3e47ec",
+          "d12252fc220039110c8656abeab5860bdbbb0aed4d79bfaca0a83bd8",
+          "487eb5f897e6c6f71d9457d779fa0ea3d2425530f88f909a1593f77e",
+          "8aa9ad246aebe39c6c57bb2e1feb9b0b93cd880ce34325e7241f3c08",
+          "1ba57283f25f45e2dfd8e5c426072d87fe3f549f4fdd1b97c081a376",
+          "4b3e019d063b8e7b896f8c5674cb188317f127779a188b2ef50e4d81",
+          "2dbfe9e6215f96d29b6adf767ee7d12d91b12a772834cc0cb92673ea",
+          "4efcfbf370dc16be86512c4409126b44685ad0724d15267bd5c04f44",
+          "75cd784b1055d0d42f80f05e18cf0982cd525f60c573c13592ede6ec",
+          "5eb53e1094b1e33e2a79b6d633e21f85133e640872f2622001900a00",
+          "a701d14f26bdf80153d09ee1dcb26cc6fa5c5b22a7723efded06ef7c",
+          "5e1f5b1819dbc3ba88af6e19d306e0bd92f2d2d74ff33811755eb512",
+          "60586977f0cc20de96cd10a02d68f73b8aa71228e83737a6d14c6954",
+          "d0dbc79b10a1e91606546f7f25a560964055b46af42886aa92225176",
+          "5a2fe543bcc34bf94dcaa16ff0f35fdadf7f7437eeec21cbb30c1cf1",
+          "a5df20645ed7c530a71ab4b73cb8dd89d9d407bcb868c4b563d7177e",
+          "d93d88e60aa426184fd8e4620c187e733a7cba266b5b064b3c17ace3",
+          "e1955f35dd1ed6720251ec72855520108a83c9bcd9b97711467080ba",
+          "0fbdd5a3b74f845d639a128197e397386fc84aa8a85366d2381d32ee",
+          "c8fc247803a5ad25b7eed99ce4ff6f7203b3be3151a3193e461aea36",
+          "40a7caec0ebf365ede9e98419d11fcc7a9c3cc61637ea1ba7502125f",
+          "757d94d13d0f52555a2c87f0f3f91b3c4086682ae940ab21059caa7b",
+          "0f7e69a10358ddc3240fe5477a6bf9ecbb7600e23700c1e39658ffae",
+          "e5a37f4a6c04d4204ba74bddfb3fbe88d52da4124422a3aa3453aa39",
+          "1b0c2fd7c6f1a6b1a9e1f12815095fff3b1a31f2bb68bdb06994a443",
+          "e6740df82d9d7064be588b61a9d95869700c5ddd48440d17f8caef11",
+          "4185984960ff3dd483fc02bf25bcd1e2b71fb28b7458d193aba3c568",
+          "d0a31c3f4083b9c4ae250c9c90e2e73981de2f95eeb3a138d6051e42",
+          "d42f3c4d27d7acbe42dc01b203f3ace5b7f71737bd4e7a2474416b5b",
+          "2644ab5d67b485819a1783e542e26a877c97dd43e4bba711a3fa1a94",
+          "b2b245bc65bd44108a46bdda0a9a141eafdf810f101616971647757e",
+          "92677e1e9d3f6d2bc9a35204b0effa7a2d7ee63726c64cde822647e9",
+          "333370671d66f8fb7ff2c54a5c9501a3373a4bb87750ab0e1fb51f2b",
+          "0030e69f03b90a9cbdcee0590b2d3505857ac1964e8bf2505de9a40d",
+          "da2be8ce42e9e611fbb235d978b2ae70de95c97e657ab2e4eec64535",
+          "b8e3c5e1fbe20cd19c08f545ceb7b328bfa72de5f52bbceb8fe8c0ff",
+          "bd995146c06d9fac46d9632fcd248d7273ccacc9482b71f4a31593dd",
+          "743146853942b6bf7f9c0323d33ea0aeb31e8aaab68225c0b2546c76",
+          "cc515bb489276b9498857e2ee63ede1226f2212bef2d4d23219e7b5b",
+          "986aaf2129d3152d39d829413bac1bc800b0038bd11bdaf3956918f9",
+          "36f78470a8f9b72abbe0d917008d3e3e75f668503b9cf26591f34b13",
+          "544f972ad7076d0b29381bb40b5b68c1cd84a7de66db858dce16915a",
+          "1b7db8a8bc2363de4ac5cb8f122c56ee5b5b4f111f5e17447f690c11",
+          "f2a14874c9e8d543c7efaa68c132453d103d92dd4a5b3f0f3265172f",
+          "90f9981c0c61973788db48ee084dbeaa7d3cfd7fd6bb4a606d1168e9",
+          "dcf42ce9e29cee9baa0da38b35cb5a7c700484dc67619a082d52f8da",
+          "a31272277d55efa4f256be523bceab574dc4cb38e57a9f7c33fce0bb",
+          "e53ffda6ca32a2533f610ae6aa3cb7cda71d6c401995c318d31049a2",
+          "0c8405dba253a965d86bf769dce8b6cb04ea297478983c5d9f7ad1d3",
+          "262f4916b4df68372f55872a617bb4c2d07709d2ff1f4182624be254",
+          "961b25b540ead0ba3a93d4d46a3d007a4d63248138b7df469903d9f6",
+          "15810205fb13814c9b630d6cc9642176a2ffd58e8f520badc9dc0d57",
+          "828a1b767abfd26c9a14dba09fb6ff86f2d8b78d1e9aaf2297bab20f",
+          "d39acfcf8090397eb86d2b301a391a25ce75cf0e4e8b13132c3eabfe",
+          "cb5f68158fe7fd783eda75f6d9f7185d5b26bbe15d9d963988c2db08",
+          "cbfe5b213cf1f6a9cdb2e3ff5169eef952492da5ba29bfba12ed7930",
+          "1ea596c6d3c3c5feaeb96995a028d4c4b41ad88b27b1ec0454ed9121",
+          "33463ad82cd88e68cd205789c2c8d24e804f36db3abd24e5bc2528e8",
+          "8dcf2e86ab0f70de59915f1125e61b1db6ca9498c75632d1d3ae1069",
+          "54026d5812074277c70b0815aa1936514c73ba9c437e0c86c41f133a",
+          "d79605d1b35194619b89f45dcd4913b7560f59337aad57e341d368c7",
+          "30704e69118e0846d4b8618207a142841535cd6d51b91e735b77ee4f",
+          "63de102daeaea3fe9f57db0f16a18ba80e3a11c57693112202c025b6",
+          "7dbeb019208b297e9a5d6896a38c7f1925bc5ecc0c165e8a8cee3a05",
+          "8615216946e1582cdb32354af32b306fa75e2043fa084a34585898b7",
+          "f21a7cfb7765339b992847d4a6f28c379f69369e3cbb1d89fc795b14",
+          "3987b4549def457f3f8290c6018afd7eac1eccc9f2f83fecbe0b52fa",
+          "d348654719f93130db306deede552c6b6e4adc0745d154338524c6e6",
+          "d4d641731ddd69d5491f8ac573953a602ef339e3fa80b255a833d7a4",
+          "a5d1fa32e226638950486eb8883453279b896cddd4e11c799f0ad5c9",
+          "4de294d177e72f0b9361440875d9d4b42bb54a117f69febb0c2894ba",
+          "02a2ce3d30e0c8b4184eb4acb43074842a787ddc63378e0c44e4fee1",
+          "b10778beb64ae572bedbc32eb19b48eb1b4fe88a6c39f6b4e95e2365",
+          "908644de89fb0dbe5ec70478e3571e65a16cb4202ca4b57f9c06f561",
+          "a122376216ad57cc3ca8ad12a75c98186d6fca157886e37854766649",
+          "18a0333b092cc9fd09140226acaa4588b4dcc54b327d1a47a325a8bf",
+          "efc4909611554e44e7021c6c56bdd28b8907655a4ab6bc9e60b753f4",
+          "bbd09e4d0c32ba4f60d86b279d114f85d1563e51624d988f5183fe76"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "NFrogTs",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/nfrogts.png",
+        "collectionName": "NFrogTs",
+        "policies": [
+          "9344885c9f6c224a5e321029b2acff22fdbd7e5c045a2f6a1a0d67e3"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelic_frogs.png",
+        "collectionName": "Cryptodelic-Frogs",
+        "policies": [
+          "56b98f0c6ffb179b503dc4d264b7d8a34aa3fb3781fabeffae0b0fd1"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Warriors",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_warriors.jpg",
+        "collectionName": "Cardano Warriors",
+        "policies": [
+          "8f80ebfaf62a8c33ae2adf047572604c74db8bc1daba2b43f9a65635"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "SushiBytes",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sushi_bytes.jpg",
+        "collectionName": "SushiBytes",
+        "policies": [
+          "cd4f09ef0a8f9a3557903d2c9a45b2f6198f1267c2031bc9228ed74a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Ghosts",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_ghosts.jpg",
+        "collectionName": "Cardano Ghosts",
+        "policies": [
+          "04fa93174fdd34d841a1db5c2faa72452c7dc729a53f88d869d77500"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Heads of Cards",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/head_of_cards.jpg",
+        "collectionName": "Heads of Cards",
+        "policies": [
+          "01ef3d1ce227d3eaf1403fe9a3c773d0aef7cefce119913ee9d4ef3b"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "ICS Studio Paintshop",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/ics_rocket.jpg",
+        "collectionName": "ICS Studio Paintshop",
+        "policies": [
+          "dee1b42993f084d15dc7dc5d55cd81fae5ccc386ab75408747d75e3a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Crypto Doggies",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodoggies.jpg",
+        "collectionName": "Crypto Doggies",
+        "policies": [
+          "7724da6519bbdda506e4d8acce11e01e01019726ddf017418f9c958a"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cardano Kings",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kings.jpeg",
+        "collectionName": "Cardano Kings",
+        "policies": [
+          "3c44c5f2cb3f2cfb35b9368ea0b246b696067a0c2eaf198040110206",
+          "7999e4042c271262ffa0a8050a2edd639208bf795855dcdeab361467",
+          "3bfcb21deffb60eb6493f4d5c56f77ec82755549fcc50ac2716747e2",
+          "d84875ebe5e197b56446181276ef19067d87b9ad1bde30d7c525cad1",
+          "ad52192e52941f65cc90332f20fb6e24a579b36d5d84d5898ce0cebd",
+          "60db16da7e1369c787dc6dd02da001e86ef8f9fe250bf9c8113d00d7",
+          "86b843bc1bcadd41758f0d1f02cec732601fa05e8124e3a7bfe74140",
+          "75f87b075ddce00a6cb055d1728c4a53b4c1b49efeb48bed45f59e25",
+          "75f87b075ddce00a6cb055d1728c4a53b4c1b49efeb48bed45f59e25",
+          "9a6581432917bf6c15f425ffcb91b9dbfe2a652f394c7c40c75e30d6",
+          "0239a1ea6ab7c41bfe42daaa115d368434c16c2e7d22d848a302e21b",
+          "8eb40f9d1903149bb01124f6fac07ff4d451b7d11af4d02e7edbb0d0",
+          "09a2fdf6eb28e5b52d6b943251b0fdbf1827039f63f603af3bb0ddf3",
+          "eb1c6b6b03ff44bf2a25d1811a1f67843322943d4f90770e3243eea0",
+          "a3c3dbe14dd75e1d5e13c92d6f49452b9a61c96068a4de16e95d661c",
+          "275fa2a150cc487129afe887d0db39f9a5f344965be1c96a0a1ffbf3",
+          "ee84aa46adf21bd066bfd7f374d4ae39028d61f999b4f5c6a7e32802",
+          "326891ec92c3e268727c031edaf3c4e4ff2e84dbb544cf6e9095d814",
+          "64ff04f5dcd63ab8c3e0eb930f080801e6edf44101f9c4f286c98688",
+          "a402652f3e6e4b3a84c3ec0d271859484799dc2c35e24ee2a6c942db",
+          "e57ceb2078ce97efc7eacaaef77b765f28a4335ff33c55604a60801b",
+          "e437fd8ce3dbd5004eeaca5fa98636128a540f0be1e3e3d9eae3713d",
+          "a2f8424876c30f69fcd1f7870864dc5983c1fd66fef620ac87cd4a39",
+          "1b6ae97b8bba8fc1661392f2d7bcec2fc2ba04886f96d9faa25c64a3",
+          "f800c26e42d93e43a82ae9b5cb8b2352c207c0cbb0f64ac64896ceb8",
+          "b66ef031617dc65f311f3fb8bb7c268af07fa6bff0d161aa241e017c",
+          "80ac0de128aaf58518858e9f5a05bba51e005d4be30076a236563601",
+          "a9b43c57956e8d056a82a98950c350e1074e3743d96f246e6cd18ff5",
+          "6c94bbfeb479d47f17ac967596496ee56a5b90d3c898e798cc571ce7",
+          "219ab3a94295fc47c07bc1b1a337780c4e0e1152f879bb9a03436f80",
+          "ffe29b49cbedac0eff7726b8280860cdb79a4b57009ea490417cc64e",
+          "c9e60c1f422fe4e62f765faa9c802307660b36cf61a51aee02fc0dcf",
+          "aa3c5b402d8eac8352bbb2969b0474049c1c52084ffc4a6a93d87a68",
+          "2b8040a2f3ca89bc2cbe7fb65f096007596a14dd52c48a4bdb3ecde9",
+          "7cdaeaed66203ded658ca7430c5e69298d64267a3566f8a3c4b57652",
+          "0950a919f89346c7a859162ff625883a4251df7b9f676e3e0b504aac",
+          "91c59967ecd1f13b25b51651828fb657603fe664394c326697cd3cb9",
+          "ecdefef7ac84af464156a9baa88bda35911b08fd63e841fa4f851f28",
+          "4e78b45805e34836c0ca810d389d9090036b87c66c71463117e68767",
+          "ec7f7dba785758f0fe1f116f6139f4913dcb1f0753306462e6b225c3",
+          "7810cbcd0b0b7a744073aa2fd4a5d058554a67fa4342375ab51892fb",
+          "66f0943d7c3a5907171afd4d1f8683277e314667b2a4b17b04a92cb3",
+          "3405c623306a323dca151778662a90ba6154dec59f4ccaceadc22d52",
+          "cd60ea35c7fb3fcb753e6c544af37d752ac9397add302415031dfe35",
+          "4b2cc4e20c6d7760512075f4038bd081c99ea3a1afca6b9100d59f57",
+          "058dfd1c23e27fb415d368e36de14a062b449e1ab44a2c00c53b5416",
+          "2c18f8f313418e6693fd70ebbbd19ecebec8248d412f38bd559bf4b1",
+          "58e8cf928f4bd648f4451e47c3e255a594d3ac929853a5d763373d7a",
+          "7b9bca05e2e1f484263b6d3664f9b1fca67a7481be48f4e5bf01ff43",
+          "28bbf40838520db6dea84ab77a965c1a9c2bbfde22beb0bad3627ee8",
+          "d96b580f25f3509096966bd3ece7a27ad88282c79b78db361c6000b1",
+          "22f2f03c5957f1d44ded6312295eff70db33e072870e51405304902d",
+          "de4577dad42ee406d1f6a014c40266903d3355e2ec2232ab59e648a5",
+          "4f0dd6a8336137247a70a1cbd4bc670821950cd30982a039fcdacfac",
+          "d0003e026170671481075201a6dfe792eff62ac536cf5e18a1de787e",
+          "2d518157864a38665dceda38867e7654fde4fc7d6bc8b7a498eef5d7",
+          "73b013858722d35e59b4ce3ce0b261dab4b48db19b36770956b96dfa",
+          "477eccc13e5fb943dc66ae8fa43bc5c10d88dac1e9e495773d3eb7fb",
+          "18f836f8566e627bd24696f56a79bd44b6bd7a9ed9be486ddff49011",
+          "ba3c12f4583d1a34a796e3b9a401d67237893a0e47229efcbdab24b3",
+          "44f670e8bf38816d336da52c1c81962c4ff5c7bc27d6cfa7735f0d61",
+          "b07c131a9eeb6d0b0549e0eb4d8f4c993055ce7744b8321ebe5095d7",
+          "2c46d46ccaa25c323ed07624c18d9b47aefe81cd87f09fe55513777b",
+          "34560103250b2a84cce53dbd24c6c8cc58ef2a8807ddd15511b85a21",
+          "27bba213292a083aefea44787d6de375dc70efeeaf6eeb22636141f2",
+          "9526770029d9ca13938184ccb49768441e453d5bd8801682449ca39f",
+          "766f98ca16580be780d6a7c79d400cc34c95e67aafaf25abdfe4b261",
+          "0859cbb8b11a0537e1bfcd41996d17351ccdab1a18c2eb7a273628c4",
+          "1f528ad842fda374a6514a93788061d2561ed3711c9a2a2139964598",
+          "2f9a982fecd12c8650045ce486ab686b51ea5fac335132ea42d8c3e9",
+          "c8a55731fe09c549e3ced5a1c735a859186a87695b3415870c63d4b5",
+          "37ba11f38d5fe15b591f22f4b1cf897a707c67f67b3f7fd0f92aaaa2",
+          "40281bd91758ed41c3919c5b4b104f4f76327ef25886bab46f7020d8",
+          "c196a0b56dade1d28be0b0415fc81c2f0e9b9778ced26cd8c4c6ae3f",
+          "ef9d8cf2e6f5e097cdf582ac6ed20f4c3a5b8df1c0eff1cf1eba8cde",
+          "964bb56463f9ec52bb698406274ba2ca8c23a315d58bbd9ade590bd4",
+          "83df354d6cab143f0ca19927db03ee3fe3752205894dc24645b4c893",
+          "ff4fc983bc6caae85c3ecf58c3e1b3d46af45ed4fbe4fb96e9a2ffb2",
+          "c14158a15103b0e45a52759031a6b6041ce9cf1f6914c4f72e10a497",
+          "cd147d9fbb325b66e599602c01bf5d680e945b18700247d2fed0d0df",
+          "822fa7ff0d374c09273b161b62b32fc14a133855579f01cb38217a69",
+          "f5102b9838234331dada702b9cf2abf897ce786f4f422e9e14b8d66e",
+          "508ee93b31e79d73e6b3bab2b961de256b384e83bae624d0bfda434d",
+          "547b2f531145e92d4fc34e259481e87e8c9684995af22aae59f5cc7e",
+          "59457fe0edf6a30021e7d2218b9af933d8b0e0705d723eb18f47cf73",
+          "1c23dba61671087f381087285a0b265ab4991cdcde1856da9da6bb03",
+          "99b345e5ebd19df091df63798eef3fbe51fd917447e942e269553467",
+          "6bc28f04768f2f35e1dd9745b19d1623902b0825d112a02abcf8421f",
+          "391c229ca54359b2d8fe98728c4df2f67b0386cb114ad4ffd8e2b007",
+          "e27f09336ac03f17a9c19dda6cf0db3284af823fda9fe85bef953eb8",
+          "7348ed08cd1e1a25853fc074875f5a6f77082c7a80ce41bb57167a7e",
+          "a89294805712f79172ee6ebefca414981bc20a4860532b98c1f3af7f",
+          "6dad02793b57bb5b593d99df5ec1c55b8e1885dd05c777065d295551",
+          "a224912f7f3b577899e0c48078dbf5b3851fb8483adb03d2abedf3d9",
+          "1e0e3df164ec24cee8fd667d7ceeb829d108f9cae364138e761243a7",
+          "7a684a38301cc3eaa2cee5e50b51f4e2e50812ef40d7ba8881acbbd8",
+          "59c7756c7b782abe88d5308cf75af4e4a74524ab5694f6996304f052",
+          "c1189fc603d6d73659d768ce305d9b2ede2c8c1314760b467211685a",
+          "26b74766650fc77b654a1a2fd460569f5bf284ec5880b5bb75dea023",
+          "a3f7e8e525514954cd6fb3c5ba240cdbc562035947d9fa319318d67f"
+        ]
+      }
+    ]
+  }
+]
