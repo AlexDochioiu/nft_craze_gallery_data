@@ -1424,5 +1424,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "CryptiesNFT",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos//crypties.jpg",
+        "collectionName": "CryptiesNFT",
+        "policies": [
+          "2a8af0f19ba8bfe934649a789565274b42bab9cc14ea8427c9d2e94a"
+        ]
+      }
+    ]
   }
 ]
