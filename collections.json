@@ -172,7 +172,20 @@
           ]
         }
       ]
-    },{
+    },
+    {
+      "project": "Charles Emotions",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/charles_emotions.gif",
+          "collectionName": "Charles Emotions",
+          "policies": [
+            "46ad4d965d640fc9865d5bd64eae11dd13cc05ff682c879564961919"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Cardano Kidz",
       "collections": [
         {
