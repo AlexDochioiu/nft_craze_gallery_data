@@ -597,6 +597,18 @@
       ]
     },
     {
+      "project": "Flow For India",
+      "collections": [
+        {
+          "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/flow_for_india.png",
+          "collectionName": "Flow For India",
+          "policies": [
+            "949dbdd63f3157100e3b98dffb20259f5053bcddb1ce6fd253c6da85"
+          ]
+        }
+      ]
+    },
+    {
       "project": "Cardano Robin",
       "collections": [
         {
