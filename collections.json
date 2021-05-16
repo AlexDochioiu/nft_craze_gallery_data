@@ -92,6 +92,18 @@
     ]
   },
   {
+    "project": "PlanetPalz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/planet_palz.jpg",
+        "collectionName": "PlanetPalz",
+        "policies": [
+          "89fa6dc66a24799ccaee43a3a16930bb045a8152fdf2a2642034774f"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Adalotls",
     "collections": [
       {
