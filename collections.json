@@ -183,7 +183,8 @@
           "fa51d06ebd5c861f5857dca8c3c7c95a0f6b1657209d727cbb25818f",
           "660f0e22b21ad4a8c7ba68db1eed2665a3d18d2f195295ef06d6c873",
           "02fbbf022859a2530d2ee456db4b2de6cd6580131a06344bde50eca3",
-          "b06b5ff1466c327853020195e5f7c19994806bad8961817a68ca7cd1"
+          "b06b5ff1466c327853020195e5f7c19994806bad8961817a68ca7cd1",
+          "7f6b2ce8fac10938d59d6be0afc967bcbf5ea48f898af49f7075bc9b"
         ]
       }
     ]
@@ -363,7 +364,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/amora.jpeg",
         "collectionName": "AmoraNFT",
         "policies": [
-          "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922"
+          "698fd14299231c1b0b5a2176a5b5ae28cc33817a59a55fbab0f09922",
+          "588e3b4a501245af52e29333623299e8b594ef73259e75a9c118cc6e"
         ]
       }
     ]
@@ -682,6 +684,30 @@
     ]
   },
   {
+    "project": "Space Balls",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/118474193-60cf0480-b73d-11eb-842e-f353a8467e9c.gif",
+        "collectionName": "Space Balls",
+        "policies": [
+          "dcfd623840591d39d4687014ea72ff8536f2c89efb4f73082ea11797"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Disassembled Series",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/118474882-23b74200-b73e-11eb-8615-4d4e2cf238b6.jpeg",
+        "collectionName": "Space Balls",
+        "policies": [
+          "1fd02d6ada120538a7dbb2a149062c1f80bac9c0614cb88380e5dad4"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Deveerei",
     "collections": [
       {
@@ -693,7 +719,8 @@
           "a147c2d6821738c0d7b964efddcbd1c58eee6fcabc595bdf3dc9f063",
           "c1e7dce06ef37fccb60bd16db42330e21da1ce6e9b66295b8ae9a534",
           "e3920a05bf0ee63f931d12d0e0189c20d624619b933454ab309c1cbd",
-          "8302cf1365b26cdc34bb4cca475fb34bd77bd81a54728f7a3f414413"
+          "8302cf1365b26cdc34bb4cca475fb34bd77bd81a54728f7a3f414413",
+          "aac7c264a5c6cd694a719b965369616b8144ec2c96092db843956b9c"
         ]
       }
     ]
@@ -705,6 +732,19 @@
         "logoUrl": "https://user-images.githubusercontent.com/30282890/116694420-db83ea00-a9f1-11eb-960b-0e7d4536048e.gif",
         "collectionName": "Jeseemei",
         "policies": [
+          "1f2350f7308030cce847ae7437a8d94bab3ee3227998d9f74f4203ef"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CSQ",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/118473905-0fbf1080-b73d-11eb-8c25-e490fa152e25.jpg",
+        "collectionName": "CSQ - Pating Series",
+        "policies": [
+          "9a6aebf21412b0f030923283e87f4fa740019b2284f9c429beeed5b2",
           "9a6aebf21412b0f030923283e87f4fa740019b2284f9c429beeed5b2"
         ]
       }
@@ -730,7 +770,7 @@
         "collectionName": "Low Poly Dragons",
         "policies": [
           "3a3e81005c80b674505cfeedeaef55e6801db785acaa92fa4301d6d1",
-          "0d22285277beb69d51608048e2fe459ea5b28033a4a257d54ad4eee3v"
+          "0d22285277beb69d51608048e2fe459ea5b28033a4a257d54ad4eee3"
         ]
       }
     ]
