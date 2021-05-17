@@ -1465,5 +1465,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "NiftyTeddy",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos//niftyteddy.png",
+        "collectionName": "NiftyTeddy",
+        "policies": [
+          "49d87796a0281b417c478fea3ebb61bfb948f3026e2e5b295ac3edf9"
+        ]
+      }
+    ]
   }
 ]
