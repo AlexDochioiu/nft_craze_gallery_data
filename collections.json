@@ -1497,7 +1497,7 @@
     "project": "CryptiesNFT",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos//crypties.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/crypties.jpg",
         "collectionName": "CryptiesNFT",
         "policies": [
           "2a8af0f19ba8bfe934649a789565274b42bab9cc14ea8427c9d2e94a"
@@ -1509,10 +1509,22 @@
     "project": "NiftyTeddy",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos//niftyteddy.png",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/niftyteddy.png",
         "collectionName": "NiftyTeddy",
         "policies": [
           "49d87796a0281b417c478fea3ebb61bfb948f3026e2e5b295ac3edf9"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CardanoApes",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardanoapes.jpg",
+        "collectionName": "CardanoApes",
+        "policies": [
+          "6bc9812630f043bbcf0259ec65c67aa8270ab8eab0c413877fd16a73"
         ]
       }
     ]
