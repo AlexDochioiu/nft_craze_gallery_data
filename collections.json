@@ -303,7 +303,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptoverse.png",
         "collectionName": "The Cryptoverse",
         "policies": [
-          "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21"
+          "ecdeecb419d95b8f58389a99a15fe81e973a7cf200e6a4d5be729b21",
+          "6418aa6ae40e658e8ce2566e8fef1ff93f0d2347a3f9262065cd3593"
         ]
       }
     ]
