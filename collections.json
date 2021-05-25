@@ -420,6 +420,18 @@
     ]
   },
   {
+    "project": "The Lab",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/the_lab.png",
+        "collectionName": "The Lab",
+        "policies": [
+          "5d91bc2d32112138546a18fdff9cce6368e8d64f93021d63521fc47a"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Street Art CNFTs",
     "collections": [
       {
