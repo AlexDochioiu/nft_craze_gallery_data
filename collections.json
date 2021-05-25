@@ -1398,6 +1398,19 @@
     ]
   },
   {
+    "project": "The Hoskinsons",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/the_hoskinsons.jpeg",
+        "collectionName": "The Hoskinsons",
+        "policies": [
+          "e986d38f4ead45a4f909cb51d61d8d95efc72b12d9302cdd040974d1",
+          "98dc68b04026544619a251bc01aad2075d28433524ac36cbc75599a1"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Heads of Cards",
     "collections": [
       {
