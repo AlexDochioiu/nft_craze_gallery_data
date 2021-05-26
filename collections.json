@@ -24,6 +24,18 @@
     ]
   },
   {
+    "project": "Polidiots",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/polidiots.jpg",
+        "collectionName": "Polidiots",
+        "policies": [
+          "ba503fec7bbac8c999ed172f86d1b889d96ec70f8e3cc853a4791ffc"
+        ]
+      }
+    ]
+  },
+  {
     "project": "CardanoMonsters",
     "collections": [
       {
