@@ -1618,5 +1618,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "shamix3d's Cardano Crystals",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_crystals.png",
+        "collectionName": "shamix3d's Cardano Crystals",
+        "policies": [
+          "36bbc4b53a8051e530e24369598b9f8183aba25f66db3f295567af9e"
+        ]
+      }
+    ]
   }
 ]
