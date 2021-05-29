@@ -98,7 +98,9 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
         "collectionName": "Lucky Neko",
         "policies": [
-          "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25"
+          "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
+          "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14",
+          "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d"
         ]
       }
     ]
@@ -942,6 +944,18 @@
         "collectionName": "NFT-Craze",
         "policies": [
           "fc9ca515b755acbf3f8ee4f75822f2a4632c6361b6c14f76deb330b0"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "unsigned_algorithms",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/unsigned.jpeg",
+        "collectionName": "unsigned_algorithms",
+        "policies": [
+          "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
         ]
       }
     ]
