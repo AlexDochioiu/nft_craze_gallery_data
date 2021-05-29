@@ -1308,6 +1308,18 @@
     ]
   },
   {
+    "project": "Hajdari CNFT",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/hajdari.jpeg",
+        "collectionName": "Hajdari CNFT",
+        "policies": [
+          "bd62827ce97cfef74e493665f9e1b7e4576ee24a13951973f70d2eae"
+        ]
+      }
+    ]
+  },
+  {
     "project": "GlitchCreation",
     "collections": [
       {
