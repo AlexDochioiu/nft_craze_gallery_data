@@ -92,6 +92,18 @@
     ]
   },
   {
+    "project": "Time Trotters",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/time_trotters.png",
+        "collectionName": "Time Trotters",
+        "policies": [
+          "a9176c08153787508fd6109b8b4861f6da927c072c6e660260694f54"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Lucky Neko",
     "collections": [
       {
