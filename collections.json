@@ -1332,6 +1332,18 @@
     ]
   },
   {
+    "project": "DEADPXLZ",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/deadpxlz.gif",
+        "collectionName": "DEADPXLZ",
+        "policies": [
+          "1ec85dcee27f2d90ec1f9a1e4ce74a667dc9be8b184463223f9c9601"
+        ]
+      }
+    ]
+  },
+  {
     "project": "CYBERBOTS",
     "collections": [
       {
