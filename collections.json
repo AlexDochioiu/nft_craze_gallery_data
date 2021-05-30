@@ -740,6 +740,18 @@
       }
     ]
   },
+   {
+    "project": "Voxelized by Anim8Bits",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/120109858-ce4b4e00-c19d-11eb-8534-b54bd9447ca4.gif",
+        "collectionName": "Voxelized by Anim8Bits",
+        "policies": [
+          "6590687768bf097900b546a15efb0e413010cbefca2ade9f629c6d43"
+        ]
+      }
+    ]
+  },
   {
     "project": "Space Balls",
     "collections": [
