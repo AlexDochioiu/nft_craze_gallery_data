@@ -1344,6 +1344,19 @@
     ]
   },
   {
+    "project": "Masha's Colour Book",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/masha.jpg",
+        "collectionName": "Masha's Colour Book",
+        "policies": [
+          "30e1f7b44afecd151930511f22fa040fc84838433ec828f2c6bf000e",
+          "172d454841162427171f30de44672bdaedf5159d431bc19cf3e98e07"
+        ]
+      }
+    ]
+  },
+  {
     "project": "CYBERBOTS",
     "collections": [
       {
