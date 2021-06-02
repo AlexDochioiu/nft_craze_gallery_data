@@ -158,7 +158,7 @@
     "project": "Berries",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/berry.jpeg",
+        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmUnSc6C7cKc3U3BJx6NkbvV1cyAhYCj5dQ32aZTFsYkFb",
         "collectionName": "Berries",
         "policies": [
           "b863bc7369f46136ac1048adb2fa7dae3af944c3bbb2be2f216a8d4f"
