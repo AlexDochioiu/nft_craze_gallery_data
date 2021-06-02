@@ -582,13 +582,14 @@
     ]
   },
   {
-    "project": "Tonoy",
+    "project": "rwiat-nfts",
     "collections": [
       {
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/tonoy_guitar.jpeg",
-        "collectionName": "Tonoy Guitar",
+        "collectionName": "rwiat-nfts",
         "policies": [
-          "eb9afab12c81b161c3261449e93ae07d8fa88b70f4c1122f6c34c833"
+          "eb9afab12c81b161c3261449e93ae07d8fa88b70f4c1122f6c34c833",
+          "a0391188e8a83bcbc51a2ed575551532db898e4d94b2a8f43825c74b"
         ]
       }
     ]
