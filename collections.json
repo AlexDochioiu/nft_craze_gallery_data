@@ -167,6 +167,18 @@
     ]
   },
   {
+    "project": "Cardano Fighters",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_fighters.jpg",
+        "collectionName": "Cardano Fighters",
+        "policies": [
+          "6262bf5e4444415eb579212d67c071db9449f0059251019d06be25d0"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Chadi Nassar - Call Me By Your Name",
     "collections": [
       {
