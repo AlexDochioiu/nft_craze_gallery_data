@@ -191,11 +191,11 @@
     ]
   },
   {
-    "project": "Atomic Heores",
+    "project": "Atomic Heroes",
     "collections": [
       {
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/atomic_heroes.png",
-        "collectionName": "Atomic Heores",
+        "collectionName": "Atomic Heroes",
         "policies": [
           "06f17d447555d63781e6a36b1e244e94261a909428f7a247118e1747",
           "01c5b1861d7b47297c5fab90cbc6090197da33c92d169fba5495890a"
