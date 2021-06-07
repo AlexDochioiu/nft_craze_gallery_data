@@ -155,11 +155,11 @@
     ]
   },
   {
-    "project": "Berries",
+    "project": "Berry NFTs",
     "collections": [
       {
-        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmUnSc6C7cKc3U3BJx6NkbvV1cyAhYCj5dQ32aZTFsYkFb",
-        "collectionName": "Berries",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/berry.png",
+        "collectionName": "Berry NFTs",
         "policies": [
           "b863bc7369f46136ac1048adb2fa7dae3af944c3bbb2be2f216a8d4f"
         ]
@@ -520,23 +520,11 @@
     "project": "ADABirds",
     "collections": [
       {
-        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmZTc8BBX9oEiatXMf8BtaxXLxBBhWm1VcWZDefLxKWtv6",
-        "collectionName": "ADABirds SET #000",
-        "policies": [
-          "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103"
-        ]
-      },
-      {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic01.jpeg",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic02.jpg",
         "collectionName": "ADABirds SET #IC01",
         "policies": [
-          "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23"
-        ]
-      },
-      {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adabirds_setic02.jpg",
-        "collectionName": "ADABirds SET #IC02",
-        "policies": [
+          "5a08f1f54265a1ce1cbac4ba3c1abede32a6f6c2df8f411618f63103",
+          "64df2764fbe7cffdfbad84a9e3f2a364fd348742287ea02800213b23",
           "7d4f432d13eecbc6ff83477d31e67ed4fb8cad3251b13f46b5d71362"
         ]
       }
@@ -1299,7 +1287,7 @@
     "project": "charlesgitnick",
     "collections": [
       {
-        "logoUrl": "https://ipfs.blockfrost.dev/ipfs/QmaZAaAmRbw3yzQUTSzooJJ8E3uS7Erm16s9fN8ueCuWwB",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/gitnick.png",
         "collectionName": "charlesgitnick",
         "policies": [
           "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
@@ -1569,7 +1557,7 @@
     "project": "Heads of Cards",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/head_of_cards.jpg",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/head_of_cards.jpeg",
         "collectionName": "Heads of Cards",
         "policies": [
           "01ef3d1ce227d3eaf1403fe9a3c773d0aef7cefce119913ee9d4ef3b"
@@ -1764,7 +1752,7 @@
     "project": "Cardano Crystals",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_crystals.png",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_crystals.jpeg",
         "collectionName": "Cardano Crystals",
         "policies": [
           "36bbc4b53a8051e530e24369598b9f8183aba25f66db3f295567af9e"
