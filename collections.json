@@ -179,6 +179,18 @@
     ]
   },
   {
+    "project": "Atomic Heores",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/atomic_heroes.png",
+        "collectionName": "Atomic Heores",
+        "policies": [
+          "06f17d447555d63781e6a36b1e244e94261a909428f7a247118e1747"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Chadi Nassar - Call Me By Your Name",
     "collections": [
       {
