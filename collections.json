@@ -1809,5 +1809,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "Cardano Keys",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_keys.png",
+        "collectionName": "Cardano Keys",
+        "policies": [
+          "423aaa3a092aff29c00cef49fe0bef65abf7838226d6869ca9c44f24"
+        ]
+      }
+    ]
   }
 ]
