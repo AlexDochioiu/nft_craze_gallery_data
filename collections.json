@@ -1244,6 +1244,18 @@
     ]
   },
   {
+    "project": "AlennaArt",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/alenna_art.jpeg",
+        "collectionName": "AlennaArt",
+        "policies": [
+          "d3af4261d95b2679d54034ef224c6d0d51b10db931065a83ea5e3867"
+        ]
+      }
+    ]
+  },
+  {
     "project": "NFTea",
     "collections": [
       {
