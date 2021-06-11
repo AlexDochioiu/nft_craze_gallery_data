@@ -1821,5 +1821,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "Hash Guardians",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/hash_guardians.png",
+        "collectionName": "Hash Guardians",
+        "policies": [
+          "b7ef0cfb14f588740d02ce8a53879ff96ab03c7b21ec1c459ac2bdda"
+        ]
+      }
+    ]
   }
 ]
