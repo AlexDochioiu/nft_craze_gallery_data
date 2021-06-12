@@ -192,6 +192,18 @@
     ]
   },
   {
+    "project": "DexoWorlds",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/dexo_worlds.png",
+        "collectionName": "DexoWorlds",
+        "policies": [
+          "862cd06c4504de6114a29e0b863751ee84ad455493d43aeeb727d896"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Atomic Heroes",
     "collections": [
       {
