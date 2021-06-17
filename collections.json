@@ -425,25 +425,16 @@
     ]
   },
   {
-    "project": "CRYPTODELICS",
+    "project": "Glus",
     "collections": [
       {
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cryptodelics.gif",
-        "collectionName": "CRYPTODELICS",
+        "collectionName": "Glus",
         "policies": [
-          "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f"
-        ]
-      }
-    ]
-  },
-  {
-    "project": "CARDANO DEMON",
-    "collections": [
-      {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_demon.gif",
-        "collectionName": "CARDANO DEMON",
-        "policies": [
-          "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b"
+          "4fc17ed958dbf8ff4f2f7e876b262ceb8c127511ec99419c65f3cd6f",
+          "006b9198418793ccc390a6042f9af84ecf7eadbbc9febc268ab9984b",
+          "b2a582a42c83b31e0c1ae91191f88b2a592d5a58476dbfd860781b39",
+          "1a2d7f342514d1a107ff2c73b3f8e28cdb5cbdddc1664fa163628855"
         ]
       }
     ]
