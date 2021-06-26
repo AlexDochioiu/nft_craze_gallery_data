@@ -1402,7 +1402,16 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/hajdari.jpeg",
         "collectionName": "Hajdari CNFT",
         "policies": [
-          "bd62827ce97cfef74e493665f9e1b7e4576ee24a13951973f70d2eae"
+          "bd62827ce97cfef74e493665f9e1b7e4576ee24a13951973f70d2eae",
+          "38ef9d0a587e4fd851fb23562646f138ea3d461e34061fdaf17ffd92",
+          "5ca090ed45b952aeedf4efd85ab766778b211733b8fa6d4053a446ff",
+          "b5962b2edf418641903962e29e502e5bd8cadb88af2b5a1a884fd00c",
+          "b2def9f515f3b18ca6f116f308d3c02c3043cc6f67541de843afd9db",
+          "5393016f56e4aa5d97475f030028452b98e2aba8810a2306c8256a1a",
+          "2ea6d8028af6b87cc6a59ab8a434ed3b6e5311a11b63fff6f47751ca",
+          "edae161863426f847b9bb68562fef8207af622aa3fca7a7394f8b5e5",
+          "3e939599a288a1a33cbfd3f6ea5fb6ae7eae7c3ec272e85a629c691b",
+          "f07194c3b56d2a4ebbb51e5f5f16346696e90d298900fd6381453cea"
         ]
       }
     ]
