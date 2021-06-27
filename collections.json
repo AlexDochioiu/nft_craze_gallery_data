@@ -1039,6 +1039,18 @@
     ]
   },
   {
+    "project": "Cardacity",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardacity.png",
+        "collectionName": "Cardacity",
+        "policies": [
+          "f456dbdd3629be1e138699419ed4f9fe0bcd70cc473b149d658f0f10"
+        ]
+      }
+    ]
+  },
+  {
     "project": "SpacePops",
     "collections": [
       {
