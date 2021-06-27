@@ -1039,6 +1039,19 @@
     ]
   },
   {
+    "project": "SpacePops",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/spacepops.png",
+        "collectionName": "SpacePops",
+        "policies": [
+          "9162ef24020c09fb195f286f6a8e9128d5ad599ca07e59aec6dad3c8",
+          "639936cfb38a4dd74bfd261795e98f6eb9bac8d9e0c72cff6d7245fe"
+        ]
+      }
+    ]
+  },
+  {
     "project": "unsigned_algorithms",
     "collections": [
       {
