@@ -126,7 +126,8 @@
         "policies": [
           "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
           "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14",
-          "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d"
+          "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
+          "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5"
         ]
       }
     ]
@@ -743,6 +744,18 @@
       }
     ]
   },
+    {
+    "project": "CardanoRonin",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/124864573-be6c2880-dfeb-11eb-829a-a9de5b0ed65d.png",
+        "collectionName": "CardanoRonin",
+        "policies": [
+          "50000001f7d74d2f95f82c4cfeb13f4119c350c2f91090fd69757fbd"
+        ]
+      }
+    ]
+  },
   {
     "project": "BeerSommelier",
     "collections": [
@@ -810,7 +823,23 @@
         "logoUrl": "https://user-images.githubusercontent.com/30282890/120109858-ce4b4e00-c19d-11eb-8534-b54bd9447ca4.gif",
         "collectionName": "Voxelized by Anim8Bits",
         "policies": [
-          "6590687768bf097900b546a15efb0e413010cbefca2ade9f629c6d43"
+          "6590687768bf097900b546a15efb0e413010cbefca2ade9f629c6d43",
+          "4091043eb3cdd8be40e5683488aeda3a48b219245576a1f221e3e725",
+          "3e54cc07d4c1f9dfb9332ce7c6c865efe6980cef4ec785aec4814b83",
+          "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7",
+          "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5"
+        ]
+      }
+    ]
+  },
+     {
+    "project": "The Ronin Universe x Anim8Bits Voxelized",
+    "collections": [
+      {
+        "logoUrl": "https://user-images.githubusercontent.com/30282890/124863875-78629500-dfea-11eb-959c-d677922a5276.gif",
+        "collectionName": "The Ronin Universe x Anim8Bits Voxelized",
+        "policies": [
+          "822222246c6614b4eb9f79c236bd01deb4dfed4f5ff95bdbaf5a854a"
         ]
       }
     ]
