@@ -171,6 +171,19 @@
     ]
   },
   {
+    "project": "Drawings by Yassin Hassan",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yassin_hassan.jpg",
+        "collectionName": "Drawings by Yassin Hassan",
+        "policies": [
+          "eae87df6a17660a0a075e853cd2d512fa42b587f0fb4970090e53ba4",
+          "65fc6185a424e7885db9f2046beccd793e4fcf43e7e7a2235142c75b"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Cardano Fighters",
     "collections": [
       {
