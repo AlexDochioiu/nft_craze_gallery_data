@@ -445,7 +445,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/aeoniumsky_block.gif",
         "collectionName": "aeoniumsky Blocks",
         "policies": [
-          "6dad8c414e24f941eedb8275c0a1d341e697d584b1b92f4a5193a62f"
+          "6dad8c414e24f941eedb8275c0a1d341e697d584b1b92f4a5193a62f",
+          "475a7fb5ddb28ad83873ead5e76f4e4db4ae9602e71dad267c170d72"
         ]
       }
     ]
