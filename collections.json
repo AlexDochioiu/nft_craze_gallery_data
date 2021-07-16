@@ -1887,7 +1887,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/niftyteddy.png",
         "collectionName": "NiftyTeddy",
         "policies": [
-          "49d87796a0281b417c478fea3ebb61bfb948f3026e2e5b295ac3edf9"
+          "49d87796a0281b417c478fea3ebb61bfb948f3026e2e5b295ac3edf9",
+		  "7e206036ca4345a7c45d37d2dff0d7280a0854ce26d279e06f7d94f1"
         ]
       }
     ]
