@@ -307,6 +307,19 @@
     ]
   },
   {
+    "project": "Sacred",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/sacred.png",
+        "collectionName": "Sacred",
+        "policies": [
+          "2ae46f4b085f69d3ff48cab9fbe4b29c2189c4909b24bf9e11b45f20",
+          "cf8947df03d15368362445b7a171ae382d30cdd7f9b2058de1b4e029"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Charles Emotions",
     "collections": [
       {
