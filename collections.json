@@ -40,7 +40,7 @@
     "project": "CardanoMonsters",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_monsters.jpeg",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_monsters.png",
         "collectionName": "CardanoMonsters",
         "policies": [
           "2c7caf462418609495ed78652115430875a24e18cc8a240b00bc09b9"
