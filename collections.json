@@ -1459,7 +1459,7 @@
     "project": "charlesgitnick",
     "collections": [
       {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/gitnick.png",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/gitnick.jpg",
         "collectionName": "charlesgitnick",
         "policies": [
           "0df434592593a9d2d93d9279ac1c428824dc0e4df46062623130e6b0",
@@ -1469,7 +1469,20 @@
           "1d7ef89ac6422da5673aa4d68c00434967396656af77f07d3a41daba",
           "8e8b6523268f5519bc7c49218ed7e5f1ad2533479461cc00d957e4a5",
           "776f700a98d35c4deeaa4ede7697ca45d7947d9e63b028924db6ebca",
-          "71060b64a0ed0078093425150c1d1bb4d14c42b5236d96a5dc1420be"
+          "71060b64a0ed0078093425150c1d1bb4d14c42b5236d96a5dc1420be",
+          "b8dbccac208457ed3a8e41a429fa39a47c02666c935ea50adfe68027"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Garlic Soul Art",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/garlicsoulartlogo.png",
+        "collectionName": "Garlic Soul Art",
+        "policies": [
+          "8392e90c4cd7a068e698b448da0a5e4db0fea4af6d2d25f3e77a0ee4"
         ]
       }
     ]
