@@ -43,7 +43,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_monsters.png",
         "collectionName": "CardanoMonsters",
         "policies": [
-          "2c7caf462418609495ed78652115430875a24e18cc8a240b00bc09b9"
+          "2c7caf462418609495ed78652115430875a24e18cc8a240b00bc09b9",
+          "fc55da262cf3a48d23d87239dcd30e872b7d149ea89c7eb4e98153b4"
         ]
       }
     ]
@@ -118,21 +119,6 @@
     ]
   },
   {
-    "project": "Lucky Neko",
-    "collections": [
-      {
-        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
-        "collectionName": "Lucky Neko",
-        "policies": [
-          "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
-          "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14",
-          "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
-          "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5"
-        ]
-      }
-    ]
-  },
-  {
     "project": "PlanetPalz",
     "collections": [
       {
@@ -154,6 +140,16 @@
           "62ea7cb573306f6c272a2ff066679f2e4216270311d8e71b5f765251",
           "4316da2a892c7c5b316b52d52655f4dba9ae36105b1bb685213848e2",
           "56b07f1eb36fe0412dad7f6cdb8bb296fdde12e4395fcde3d48caa93"
+        ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_neko.png",
+        "collectionName": "Lucky Neko",
+        "policies": [
+          "c91721b68a9e4a34b25dd7570c25cce7b9f20d5e03818893cd42dd25",
+          "5df412e3eb27ffa1665302f8bf97f74f89fa42215d3e5b09464c1c14",
+          "4bd2bc0c63d4548c6304604d48ca4a5a4282407fc4959b116132e67d",
+          "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5"
         ]
       }
     ]
