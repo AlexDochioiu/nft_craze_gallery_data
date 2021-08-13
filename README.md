@@ -31,4 +31,4 @@ To include your project and/or collections, please modify the `collections.json`
 
 ## Buy us a coffee
 *Any donnations to support this project (NFTs and/or ADA) are welcomed at the address:*
-addr1qyh6cydalyr3q94a23qu6e7jpgyjmxnv57f6duuqttnpwlhtj8zrkh7atzaczycvcmvqhr4mjfxgd0ywrlhwj63vl5jqaee2pl
+addr1qxqz9xuzaznul542599u8a6wyp3lss54k62c95kwgqsatefgh2vkhtv4pcy82r78swe77ynkwdqx0pprf5uyy6espywsdacvzy
