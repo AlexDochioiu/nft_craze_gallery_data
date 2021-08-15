@@ -2047,5 +2047,17 @@
         ]
       }
     ]
+  },
+  {
+    "project": "Hash Guardians",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/ibisNFT.png",
+        "collectionName": "ibis NFT",
+        "policies": [
+          "e57140b62c5fd77726de5cbe873228d03dc2c6c314577f0945328cd3"
+        ]
+      }
+    ]
   }
 ]
