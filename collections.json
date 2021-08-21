@@ -394,6 +394,18 @@
     ]
   },
   {
+    "project": "adamobile",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamobile.webp",
+        "collectionName": "adamobile",
+        "policies": [
+          "d19a5b3877add514b47fd46bec770e40da9798d5f768bdfacfa4928c"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Punkster Art",
     "collections": [
       {
