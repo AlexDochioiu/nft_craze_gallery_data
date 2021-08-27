@@ -407,6 +407,18 @@
     ]
   },
   {
+    "project": "adamon",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamon.jpg",
+        "collectionName": "adamon",
+        "policies": [
+          "62d5fd332194ed023dc63607173347e3a9c321ec7a3e8d378921958b"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Punkster Art",
     "collections": [
       {
