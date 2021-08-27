@@ -369,6 +369,18 @@
     ]
   },
   {
+    "project": "Politikoz",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/politikoz.png",
+        "collectionName": "Politikoz",
+        "policies": [
+          "6f80b47342de4b8d534d4fe59d8995471154ff5b416a9e46723440a4"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Crypto Mayor",
     "collections": [
       {
