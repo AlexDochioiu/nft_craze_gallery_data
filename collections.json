@@ -368,14 +368,17 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/cardano_kidz.jpeg",
         "collectionName": "Cardano Kidz",
         "policies": [
-          "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
-          "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1",
           "2a7f741d816d066fd58d552196ab910bbbe47f49ec725f7938f8a10b",
-          "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
           "6afd2b286ec8d119f803e72ef14a487ea380a9ae094527e001160caa",
           "5534595a12198346446ca7be0a56548e7091c3f2126f360a5fd8fe2d",
           "e09b900a1dba5d39e58e2f796fcdc1b5681068ba30379d59e141aca9",
+          "5d2c310ba30ee79a9139defb690af87a110444492c9caf4b2038e0f1",
           "4277af377ea2832f66d907636590bcbe822e4b009d254d28d84bd7cb",
+          "7f99c7ca1427b416e0eafb93132f6a13d081d7c61ef0debb4a77d2cd",
+          "c3f7c24203e407f8345238dece33aea3744a90b984a35c3fc0422540",
+          "5ed67962f702fd4773b2d1ec13d156e73954aa61b8f42e9f10c8e1b1",
+          "500726355df9bb55c4e80a2c36ecb7a8f143e24d67fc1db121f66a60",
+          "5bb7f3c67cb9bece3ae0f654ec5eed2f8c0b16ecd18e66157392eb3c",
           "b22cdb567a859e243053692802985d1585f4d5c5bcd79be732cff6cc"
         ]
       }
@@ -517,7 +520,7 @@
           "f75656e871d5a3e9e48f08a6fe3beb6af7b463670d43221170d2592a",
           "dae0e81d82436fc93fca752dfc27ffbfe50eb56af6fbb844de1651bf",
           "0cb96b9829264649b3631751dfa95e262824016a83c6140555cba6c9",
- 	  "0e93c01ddddd33ade3868f2ae7437d16821e13d1395cec80d3f89d95"
+          "0e93c01ddddd33ade3868f2ae7437d16821e13d1395cec80d3f89d95"
         ]
       },
       {
@@ -851,7 +854,7 @@
       }
     ]
   },
-    {
+  {
     "project": "CardanoRonin",
     "collections": [
       {
@@ -918,28 +921,16 @@
         "logoUrl": "https://user-images.githubusercontent.com/30282890/116137850-abdd9500-a706-11eb-8383-0b78c6f9131b.gif",
         "collectionName": "Anim8bits",
         "policies": [
-          "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a"
-        ]
-      }
-    ]
-  },
-   {
-    "project": "Voxelized by Anim8Bits",
-    "collections": [
-      {
-        "logoUrl": "https://user-images.githubusercontent.com/30282890/120109858-ce4b4e00-c19d-11eb-8534-b54bd9447ca4.gif",
-        "collectionName": "Voxelized by Anim8Bits",
-        "policies": [
+          "eedee8ab75886ed9a8a691ba54768ecab4f7da47b8659a89a573c00a",
           "6590687768bf097900b546a15efb0e413010cbefca2ade9f629c6d43",
           "4091043eb3cdd8be40e5683488aeda3a48b219245576a1f221e3e725",
           "3e54cc07d4c1f9dfb9332ce7c6c865efe6980cef4ec785aec4814b83",
-          "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7",
-          "9d10f41b2527d769b6f9feaa49f57c1384fb7474858b08ba75695ad5"
+          "804778fc7307fd9159f5894cd4f9d24eef84cb2ca092c3b60d8f36a7"
         ]
       }
     ]
   },
-     {
+  {
     "project": "The Ronin Universe x Anim8Bits Voxelized",
     "collections": [
       {
@@ -1689,7 +1680,8 @@
           "1c5f83f6993512bf219ff0da1c3272adc5097b09cb8f0c59cbce7c57",
           "88a4c1f00cf620453bd1190bd408158130015215e40543210ed72bbf",
           "13d50e918e235f23dcad7b9117ee91bde515d45e88d5fdd2910f9279",
-          "049c3a2837aed183d771daa7715f1573629e8e136439b203f026ff5b"
+          "049c3a2837aed183d771daa7715f1573629e8e136439b203f026ff5b",
+          "48037fd289a10b18d30c3ac7febc6c542ee17aa883bf02b9916594ec"
         ]
       }
     ]
@@ -1849,7 +1841,13 @@
         "collectionName": "The Hoskinsons",
         "policies": [
           "e986d38f4ead45a4f909cb51d61d8d95efc72b12d9302cdd040974d1",
-          "98dc68b04026544619a251bc01aad2075d28433524ac36cbc75599a1"
+          "98dc68b04026544619a251bc01aad2075d28433524ac36cbc75599a1",
+          "bb1555e0c2e3fdf057a628c08e3e7d0ea16004e08c8d68670f636b32",
+          "899f355ac4222fefb0be7b05dd4766e95ce2e0dabed82c7ec56beb90",
+          "b1a60dbc60615e35dca949745b7fa15ceac192249fdaed486e5d43db",
+          "44ae79bd8fbbcd4b7ecbf5745feaa75feb4c7be8ac5198a968528f0a",
+          "f0d6194042903653ef5c82366da54ed5e21cd91aa2e274f754f5c57b",
+          "f0c97f0f38c0bd5b3fcb36bcb4824930401168ef64c041edf33d0208"
         ]
       }
     ]
@@ -2021,7 +2019,7 @@
         "collectionName": "NiftyTeddy",
         "policies": [
           "49d87796a0281b417c478fea3ebb61bfb948f3026e2e5b295ac3edf9",
-		  "7e206036ca4345a7c45d37d2dff0d7280a0854ce26d279e06f7d94f1"
+          "7e206036ca4345a7c45d37d2dff0d7280a0854ce26d279e06f7d94f1"
         ]
       }
     ]
@@ -2100,40 +2098,40 @@
       }
     ]
   },
- {
+  {
     "project": "Vanity Trophies",
     "collections": [
       {
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/VanityTrophies.jpeg",
         "collectionName": "Vanity Trophies",
         "policies": [
-        "b76f09d72a322783f0187076e620c7aafefd78ffba9187171227db90",
-        "727df24a0af4d9c065d9e8332b4e8e88a44537458310424004899362",
-        "16f43afef2b0b829f79112e0015003b3e25795a4de2f2380ce84c178",
-        "1e06ff6dd01ef2bad53804b38fdcbae219b2522df8ac79f1542a3c8b",
-        "69c0b443c150b0abb872c37630dc5be105a160a78f04453472856be7",
-        "bb4c677c1e33eb4847b33df31d26ab41d4179f9932aea5d21d5cf838",
-        "dc7732e36fd189e4a751fa120a8bf49723e7b3d7b5ef1016e0709566",
-        "9069c3a2bf0e2904f0f9f36cdf415f1608bab46c9b1d304abae844a1",
-        "36423e73d03dbfaf9fcd13f9207476d77c7e637fdf4aa65bc8f8259f",
-        "047b8476ffebc4c8881034aca64409e67ea4ada5a66832233d57fe14",
-        "3234b164d3b25504c7d50a01ea7cb9e50a548e1b6e3b55c579cbaec7",
-        "f691ed90fa3e4fe7c1920c7f0d9638bdb4c07016a5b0e23bd1a02861",
-        "bd03f0e3cef5afe3a44eb58f0668b29f9f4451015fc1af1b41d614c4",
-        "813129e24287c2a63ce9028c26df7c144d770b81937d01772ec2f6f9",
-        "1de1c85018d1ae8b3e1e35019fa98c7a57a16a0dde04f9a1a5b95884",
-        "2005a8f42e57be7d8ac3c916d298225208ff39af020b28e9d671f3ef",
-        "5c08ff27f5defa4f0895d5aab8cb7d8c11e68793e51f39936ec3a316",
-        "abe8d2d78042daa5bce6ae433ed7f9a75137aa2d1f4fbcecaee3b443",
-        "c5034cf4cc8458612913f3074b7982ed1bb0a4fc2bdb469e61d04436",
-        "be30b6efdbc0ebd80314906ab0f1df971c597fecca6abb4b98be807d",
-        "d17a17939616e8c84cd80cc51d036cadfce7e67fe9ad00d6aaa9b86f",
-        "fb04e22a9196ac9ac1ca806394b291e7e46637aa6b66d697ceb4d24f",
-	"3fd1242c57fa80d8db3c583caa5cfbe28e5f4561e8a2063139bec92d",
-	"9cf9534e6fb9627bf1b6cd91f203027703e61590f00dd32fcff662fa",
-	"a0259c84879971b0c53e84566e67b323310e799a78fd9c97d8e85010",
-	"5edd05fb06c1fa3f0c9df501983f449019b4b9cfc494248ed89d7e26",
-	"1cb50f1ac17da855c41a2212493246c23d1a3e4fb4a75db159372dd8"
+          "b76f09d72a322783f0187076e620c7aafefd78ffba9187171227db90",
+          "727df24a0af4d9c065d9e8332b4e8e88a44537458310424004899362",
+          "16f43afef2b0b829f79112e0015003b3e25795a4de2f2380ce84c178",
+          "1e06ff6dd01ef2bad53804b38fdcbae219b2522df8ac79f1542a3c8b",
+          "69c0b443c150b0abb872c37630dc5be105a160a78f04453472856be7",
+          "bb4c677c1e33eb4847b33df31d26ab41d4179f9932aea5d21d5cf838",
+          "dc7732e36fd189e4a751fa120a8bf49723e7b3d7b5ef1016e0709566",
+          "9069c3a2bf0e2904f0f9f36cdf415f1608bab46c9b1d304abae844a1",
+          "36423e73d03dbfaf9fcd13f9207476d77c7e637fdf4aa65bc8f8259f",
+          "047b8476ffebc4c8881034aca64409e67ea4ada5a66832233d57fe14",
+          "3234b164d3b25504c7d50a01ea7cb9e50a548e1b6e3b55c579cbaec7",
+          "f691ed90fa3e4fe7c1920c7f0d9638bdb4c07016a5b0e23bd1a02861",
+          "bd03f0e3cef5afe3a44eb58f0668b29f9f4451015fc1af1b41d614c4",
+          "813129e24287c2a63ce9028c26df7c144d770b81937d01772ec2f6f9",
+          "1de1c85018d1ae8b3e1e35019fa98c7a57a16a0dde04f9a1a5b95884",
+          "2005a8f42e57be7d8ac3c916d298225208ff39af020b28e9d671f3ef",
+          "5c08ff27f5defa4f0895d5aab8cb7d8c11e68793e51f39936ec3a316",
+          "abe8d2d78042daa5bce6ae433ed7f9a75137aa2d1f4fbcecaee3b443",
+          "c5034cf4cc8458612913f3074b7982ed1bb0a4fc2bdb469e61d04436",
+          "be30b6efdbc0ebd80314906ab0f1df971c597fecca6abb4b98be807d",
+          "d17a17939616e8c84cd80cc51d036cadfce7e67fe9ad00d6aaa9b86f",
+          "fb04e22a9196ac9ac1ca806394b291e7e46637aa6b66d697ceb4d24f",
+          "3fd1242c57fa80d8db3c583caa5cfbe28e5f4561e8a2063139bec92d",
+          "9cf9534e6fb9627bf1b6cd91f203027703e61590f00dd32fcff662fa",
+          "a0259c84879971b0c53e84566e67b323310e799a78fd9c97d8e85010",
+          "5edd05fb06c1fa3f0c9df501983f449019b4b9cfc494248ed89d7e26",
+          "1cb50f1ac17da855c41a2212493246c23d1a3e4fb4a75db159372dd8"
         ]
       },
       {
