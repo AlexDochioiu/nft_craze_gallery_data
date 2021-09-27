@@ -2192,7 +2192,40 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/ibisNFT.png",
         "collectionName": "ibis NFT",
         "policies": [
-          "e57140b62c5fd77726de5cbe873228d03dc2c6c314577f0945328cd3"
+          "e57140b62c5fd77726de5cbe873228d03dc2c6c314577f0945328cd3",
+          "eee588af3490bbe4993b734b8ea853351dc7e14725e72a6728758901",
+          "76fdda6c1b36081684791601d747b042d54699490463fe5bef7b3e6d"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "CyberStones",
+    "collections": [
+      {
+        "logoUrl": "",
+        "collectionName": "CyberStones",
+        "policies": [
+          "68b678a6c2d8a521b88e4c12124ecb27af42d02a23131fd0dda52ea4"
+        ]
+      }
+    ]
+  },
+   {
+    "project": "Unsig Crazy",
+    "collections": [
+      {
+        "logoUrl": "",
+        "collectionName": "Glitchsigs",
+        "policies": [
+          "1304ffd565c74d349ac2d8d52f483e859fe4ac5830d8c2138a887045"
+        ]
+      },
+      {
+      "logoUrl": "",
+      "collectionName": "Psychedelicsigs",
+      "policies": [
+        "fea373f4e293024abedf7b6053b48b37034d2a8ae7ebf1079b91bc6a"
         ]
       }
     ]
