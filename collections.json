@@ -2203,7 +2203,7 @@
     "project": "CyberStones",
     "collections": [
       {
-        "logoUrl": "",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/Cyberstones-thumb.png",
         "collectionName": "CyberStones",
         "policies": [
           "68b678a6c2d8a521b88e4c12124ecb27af42d02a23131fd0dda52ea4"
@@ -2215,14 +2215,14 @@
     "project": "Unsig Crazy",
     "collections": [
       {
-        "logoUrl": "",
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/glitchsig-thumb.jpeg",
         "collectionName": "Glitchsigs",
         "policies": [
           "1304ffd565c74d349ac2d8d52f483e859fe4ac5830d8c2138a887045"
         ]
       },
       {
-      "logoUrl": "",
+      "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/Psychedelicsig-thumb.jpeg",
       "collectionName": "Psychedelicsigs",
       "policies": [
         "fea373f4e293024abedf7b6053b48b37034d2a8ae7ebf1079b91bc6a"
