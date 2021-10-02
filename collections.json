@@ -1497,6 +1497,30 @@
     ]
   },
   {
+    "project": "VeryImportantDummies",
+    "collections": [
+      {
+        "logoUrl": "https://bafybeih7nlt22poboi7iy3ve4pnifjvmjxtdhrzezoxfrxhn5tipydi5g4.ipfs.infura-ipfs.io/",
+        "collectionName": "VeryImportantDummies",
+        "policies": [
+          "a4b073b35064bdcecef791df64a1932008551b4ba87208af088d2587"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "DeepVision by VisionAI",
+    "collections": [
+      {
+        "logoUrl": "https://bafybeih74wws4caobffqmfhhi7mac6wcyzgtydblo7jtitk6xapcerywhm.ipfs.infura-ipfs.io/",
+        "collectionName": "DeepVision by VisionAI",
+        "policies": [
+          "28a9ffc30a5f4e18315fc6c5d192c349efb5b259bccb40b703999de9"
+        ]
+      }
+    ]
+  },
+  {
     "project": "AlennaArt",
     "collections": [
       {
