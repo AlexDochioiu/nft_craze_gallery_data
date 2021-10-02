@@ -2112,6 +2112,18 @@
     ]
   },
   {
+    "project": "ADAPunkz",
+    "collections": [
+      {
+        "logoUrl": "https://bafybeih7y43dtzokn47ikgm6h662ccpuzzjwyhnue4s244b5idg5bu6q2m.ipfs.infura-ipfs.io/",
+        "collectionName": "ADAPunkz",
+        "policies": [
+          "3d41ef39b9f7cc5b10e5a963ab6b10ba429bffbac2166a5584b0bcd3"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Jolly Roger's Crew",
     "collections": [
       {
@@ -2119,6 +2131,18 @@
         "collectionName": "Jolly Roger's Crew",
         "policies": [
           "9cf2d7934c499f7fe31069934c89e0013e9660f9fb2e98a6319d6574"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "BabyAlienClub",
+    "collections": [
+      {
+        "logoUrl": "https://bafybeih76xh6qtqb5guc46td44zy2vd66eyxjzj2vsl4ao7vlcrahyzbhm.ipfs.infura-ipfs.io/",
+        "collectionName": "BabyAlienClub",
+        "policies": [
+          "15509d4cb60f066ca4c7e982d764d6ceb4324cb33776d1711da1beee"
         ]
       }
     ]
