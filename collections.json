@@ -1570,6 +1570,10 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/yummi_universe.png",
         "collectionName": "Yummi Universe",
         "policies": [
+          "333427e94971f530653bb945f34f914252ad570c0b84dfd8c8e8c97b",
+          "e3222eeec84650fee7cbf7cf852a7a441f2f2d1ff063cd77605541ab",
+          "4b922d25832e5113049dc44a57a94c146a5073f3184053974bccad04",
+          "7c1201c22de0ec31c9a3af6ffbc87d09c2b8a02caa44bbe02f51d2c2",
           "7688e78e7036eef1536b45d7b04dcce29a3cc1fb074696228326da62",
           "e3a51cc7a08cb1f6af0b9aa0488b848117e8459d179d584610d4abed",
           "594b9e027099a4ce436ca12f8085c33393aa4c35a7e4327da1edc69c",
@@ -1579,10 +1583,7 @@
           "c0bd2c897dd95f2ef7b097ac9cdca49295455282ae63a794c6498f54",
           "1f7f4f354893627bea7058d305fc8b8b2e58483f0edbb11e78f5cca5",
           "4c1749abf4b74cdf2ee617be2cd976b92d2529889ba885e5d0c648a5",
-          "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba",
-          "e3222eeec84650fee7cbf7cf852a7a441f2f2d1ff063cd77605541ab",
-          "4b922d25832e5113049dc44a57a94c146a5073f3184053974bccad04",
-          "333427e94971f530653bb945f34f914252ad570c0b84dfd8c8e8c97b"
+          "4acc21ce6bdb9fc89b203bc7a7650f2107986d90de3fbc62bac1ccba"
         ]
       }
     ]
@@ -1602,7 +1603,8 @@
           "8e8b6523268f5519bc7c49218ed7e5f1ad2533479461cc00d957e4a5",
           "776f700a98d35c4deeaa4ede7697ca45d7947d9e63b028924db6ebca",
           "71060b64a0ed0078093425150c1d1bb4d14c42b5236d96a5dc1420be",
-          "b8dbccac208457ed3a8e41a429fa39a47c02666c935ea50adfe68027"
+          "b8dbccac208457ed3a8e41a429fa39a47c02666c935ea50adfe68027",
+          "b1814c6d3b0f7a42c9ee990c06c9d504a42bb22bf0e34e7908ae21b2"
         ]
       }
     ]
