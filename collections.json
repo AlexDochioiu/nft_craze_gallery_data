@@ -2148,6 +2148,18 @@
     ]
   },
   {
+    "project": "CardanoCity",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1412915960462417922/kb0HTmGm_400x400.png",
+        "collectionName": "CardanoCity",
+        "policies": [
+          "a5425bd7bc4182325188af2340415827a73f845846c165d9e14c5aed"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Cardano Crystals",
     "collections": [
       {
