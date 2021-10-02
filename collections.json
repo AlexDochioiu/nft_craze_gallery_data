@@ -349,6 +349,18 @@
     ]
   },
   {
+    "project": "H.Y.P.E Skulls",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/hype_skulls.jpg",
+        "collectionName": "H.Y.P.E Skulls",
+        "policies": [
+          "2f459a0a0872e299982d69e97f2affdb22919cafe1732de01ca4b36c"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Sacred",
     "collections": [
       {
