@@ -207,6 +207,18 @@
     ]
   },
   {
+    "project": "Cardano Mystics",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1443385193230843906/P4aMri3A_400x400.jpg",
+        "collectionName": "Cardano Mystics",
+        "policies": [
+          "25ed4e5cc6c86114c314b150921c8609e298c6997e60317c68eeb7ff"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Drawings by Yassin Hassan",
     "collections": [
       {
