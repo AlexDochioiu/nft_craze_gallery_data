@@ -1250,6 +1250,18 @@
     ]
   },
   {
+    "project": "ADA Ninjaz",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1439349017897422848/wEgBS_lC_400x400.jpg",
+        "collectionName": "ADA Ninjaz",
+        "policies": [
+          "83c0ab67afc9148bd1571b7a14de1df03cd5624f5992d3b8ec84d6fb"
+        ]
+      }
+    ]
+  },
+  {
     "project": "SpacePops",
     "collections": [
       {
