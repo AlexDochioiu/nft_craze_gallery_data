@@ -1455,6 +1455,31 @@
     ]
   },
   {
+    "project": "MyAdaHouse",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1448971212047196169/iGZijxQq_400x400.jpg",
+        "collectionName": "MyAdaHouse",
+        "policies": [
+          "81ba784847c4b38df1274e687e26d9e954d879b2b1871e782cc7d995"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "Cryptozoology",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1435555319862554625/q0zOpNOp_400x400.jpg",
+        "collectionName": "Cryptozoology",
+        "policies": [
+          "c9633bdd95c8410270a7b052cc3652eb2f7bdecdd834be92202f7136",   
+          "07b8645e5495ec6ed5fc1e4e4591171e9dde4994241e63f9f6ab908e"
+        ]
+      }
+    ]
+  },
+  {
     "project": "CORN 'n FRIENDS",
     "collections": [
       {
@@ -2137,13 +2162,25 @@
     ]
   },
   {
-    "project": "ADAPunkz",
+    "project": "ADAPunks",
     "collections": [
       {
         "logoUrl": "https://bafybeih7y43dtzokn47ikgm6h662ccpuzzjwyhnue4s244b5idg5bu6q2m.ipfs.infura-ipfs.io/",
-        "collectionName": "ADAPunkz",
+        "collectionName": "ADAPunks",
         "policies": [
           "3d41ef39b9f7cc5b10e5a963ab6b10ba429bffbac2166a5584b0bcd3"
+        ]
+      }
+    ]
+  },
+  {
+    "project": "ADAPunkz",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1433450095547199493/fmdF1MaI_400x400.jpg",
+        "collectionName": "ADAPunkz",
+        "policies": [
+          "76ebe108d0d58ba2ffe6024cf25cf5f6a890f4c61d77ee7911362b14"
         ]
       }
     ]
