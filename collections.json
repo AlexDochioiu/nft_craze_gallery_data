@@ -1167,6 +1167,18 @@
     ]
   },
   {
+    "project": "CryptoPhages",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1437796784202559488/afFk47Xe_400x400.jpg",
+        "collectionName": "CryptoPhages",
+        "policies": [
+          "44497999553f0e67405ea8c3049df4d87e50132d92e548b10b2ac8a2"
+        ]
+      }
+    ]
+  },
+  {
     "project": "Colored Coins",
     "collections": [
       {
