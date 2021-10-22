@@ -473,6 +473,13 @@
         "policies": [
           "adc5716393953403109c335e68c0384238fd19653e960e03afa1fb1f"
         ]
+      },
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/refresh.png",
+        "collectionName": "The Creepfresh",
+        "policies": [
+          "cbc663f65389d982d5635750920b10e76bdc3151af9311b4885b5906"
+        ]
       }
     ]
   },
