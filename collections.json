@@ -2258,6 +2258,18 @@
     ]
   },
   {
+    "project": "Lunars",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1442828059376300032/ol5A7XIh_400x400.jpg",
+        "collectionName": "Lunars",
+        "policies": [
+          "0deb40ad7feaea39d92b8c86bc256bf1348db6b239fda9d3be74d30a"
+        ]
+      }
+    ]
+  },
+  {
     "project": "CardanoCity",
     "collections": [
       {
