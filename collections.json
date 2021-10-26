@@ -2210,6 +2210,18 @@
     ]
   },
   {
+    "project": "ADAPunks",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1444872074456178688/pf9EV1Lc_400x400.jpg",
+        "collectionName": "ADAPunks",
+        "policies": [
+          "22b38c9d58710cdddf0205731dc67c916f6737e5e8f99a90bd9213ee"
+        ]
+      }
+    ]
+  },
+  {
     "project": "ADAPunkz",
     "collections": [
       {
