@@ -517,7 +517,8 @@
         "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/adamon.jpg",
         "collectionName": "adamon",
         "policies": [
-          "62d5fd332194ed023dc63607173347e3a9c321ec7a3e8d378921958b"
+          "62d5fd332194ed023dc63607173347e3a9c321ec7a3e8d378921958b",
+          "a826300b47759cceea1a2af6645c3d97b2d73ab4e94781c1eee27c62"
         ]
       }
     ]
