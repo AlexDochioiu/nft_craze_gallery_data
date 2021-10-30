@@ -511,6 +511,23 @@
     ]
   },
   {
+    "project": "Masked On Buttons",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1438324761382113282/pUug-xXf_400x400.jpg",
+        "collectionName": "Masked On Buttons",
+        "policies": [
+          "1f02ffd171edc73021154e4103ad1240eb188751ecb035d12f231756",
+          "1b97e4f5687359064968c726d171ce6472f9a8ad19fb922d70fe48b1",
+          "bea41cde225159466664b35dc93e7c5c76458a4a7cc9f7aceb645788",
+          "c9d1eca7345a8fd8ddf8309cc612bfd2a05e56db42353853956d8a6a",
+          "074fed91205b602077de6a9bcfe0ec146962baf083bd0f8a231025b9",
+          "8d99a6f364e82a59bbc93bee9b9db23a85d841cd9ac63b78e60b5c9c"
+        ]
+      }
+    ]
+  },
+  {
     "project": "adamon",
     "collections": [
       {
