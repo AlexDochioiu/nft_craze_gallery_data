@@ -221,6 +221,20 @@
     ]
   },
   {
+    "project": "ArabicNFT",
+    "collections": [
+      {
+        "logoUrl": "https://pbs.twimg.com/profile_images/1445840960148033542/0DpBy1Ry_400x400.jpg",
+        "collectionName": "ArabicNFT",
+        "policies": [
+          "e846aaf542d3fbb548f26f6424c20659f9bb32890af076da664d3143",
+          "933febfb1e3de96dbfdfe39ab6c253ef99eae1325917c361a565a571",
+          "22e7d6e67d5ed3ae49f010a35f7e8140d4dbef01d0b998139afcfa65"
+        ]
+      }
+    ]
+  },
+  {
     "project": "AdaverseX",
     "collections": [
       {
