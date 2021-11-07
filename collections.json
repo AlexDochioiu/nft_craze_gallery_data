@@ -394,6 +394,18 @@
     ]
   },
   {
+    "project": "Proof of Shark",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/pos.jpeg",
+        "collectionName": "Proof of Shark S1",
+        "policies": [
+          "e54bcae2e9f4320346636bd9e662cd33a21fcd3a39f1e2ea19f7a0ee"
+        ]
+      }
+    ]
+  },
+  {
     "project": "H.Y.P.E Skulls",
     "collections": [
       {
