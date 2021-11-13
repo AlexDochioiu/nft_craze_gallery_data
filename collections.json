@@ -866,6 +866,19 @@
     ]
   },
   {
+    "project": "Lucky Lizard Club",
+    "collections": [
+      {
+        "logoUrl": "https://raw.githubusercontent.com/AlexDochioiu/nft_craze_gallery_data/main/logos/lucky_lizard.jpg",
+        "collectionName": "Lucky Lizard Club",
+        "policies": [
+          "0c78e05b311c87444e02cfd3b54c1df60bf38da95956bc4901cb7d29",
+          "0996930adce4e209e6060af20af4d78285b215852a1505827710cd5e"
+        ]
+      }
+    ]
+  },
+  {
     "project": "rwiat-nfts",
     "collections": [
       {
